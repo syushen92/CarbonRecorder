@@ -1,0 +1,14 @@
+{
+  "header": {
+    "home": "首頁"
+  },
+  "tabs": {
+    "products": "商品表",
+    "records": "碳足跡紀錄"
+  },
+  "content": {
+    "products": "產品列表",
+    "records": "碳紀錄列表",
+    "comingSoon": "即將推出"
+  }
+}
