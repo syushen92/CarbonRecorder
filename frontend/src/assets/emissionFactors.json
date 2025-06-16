@@ -1,0 +1,7779 @@
+[
+    {
+        "name": "醋酸乙烯酯共聚物",
+        "coe": "2.1258",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "聚丙烯(PP)",
+        "coe": "2.01",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "聚氯乙烯(膠膜，膠布，電線電纜用)",
+        "coe": "2.21",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "低密度聚乙烯(LDPE)",
+        "coe": "1.9",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "聚醯胺6",
+        "coe": "3.83",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "聚甲基丙烯酸甲酯",
+        "coe": "7.5357",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "聚對苯二甲酸乙二酯 (PET)",
+        "coe": "2.35",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "聚甲醛",
+        "coe": "1.723",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "甲基異丁酮",
+        "coe": "2.8",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "丙烯－丁二烯－苯乙烯聚合物(資訊產品用，防火級)",
+        "coe": "3.256",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "環氧樹脂",
+        "coe": "3.02",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "生鐵",
+        "coe": "1.813",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "扁鋼胚",
+        "coe": "2.088",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "扁鋼胚(電弧爐製程，碳鋼)",
+        "coe": "0.4",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "大鋼胚",
+        "coe": "2.267",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "軋延小鋼胚",
+        "coe": "2.422",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "鋼板",
+        "coe": "2.415",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "熱軋粗鋼捲",
+        "coe": "2.308",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "熱軋鋼捲",
+        "coe": "2.38",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "熱軋酸洗塗油鋼捲",
+        "coe": "2.398",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "熱軋鋼板片",
+        "coe": "2.388",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "冷軋鋼捲",
+        "coe": "2.94",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "冷軋塗漆鋼捲",
+        "coe": "3.298",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "碳鋼冷軋鋼捲",
+        "coe": "2.5",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "矽晶圓(6吋)",
+        "coe": "4.65",
+        "unit": "片",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "中低規電磁鋼捲",
+        "coe": "3.044",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "高規電磁鋼捲",
+        "coe": "3.086",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "熱浸鍍鋅鋼捲",
+        "coe": "2.988",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "電鍍鋅鋼捲",
+        "coe": "3.163",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "條鋼盤元",
+        "coe": "2.628",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "線材盤元",
+        "coe": "2.708",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "球化條鋼盤元",
+        "coe": "2.83",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "球化線材盤元",
+        "coe": "2.91",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "直棒鋼",
+        "coe": "2.702",
+        "unit": "公斤(kg)",
+        "departmentname": "中國鋼鐵股份有限公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "馬口鐵(鍍錫低碳鋼板)",
+        "coe": "2.4903",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "不鏽鋼(電弧爐製程，SS304)",
+        "coe": "2.01",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "不鏽鋼鋼胚",
+        "coe": "1.13",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "不鏽鋼冷軋鋼捲",
+        "coe": "1.46",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "合金鋼鋼胚",
+        "coe": "0.68",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "金",
+        "coe": "11.1046",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "鉑",
+        "coe": "7.1167",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "鋁錠",
+        "coe": "9.8493",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "陽極磷銅(印刷電路板用)",
+        "coe": "4.67",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "台灣自來水(2011)",
+        "coe": "0.167",
+        "unit": "立方公尺(m3)",
+        "departmentname": "台灣自來水公司",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "純銅線",
+        "coe": "4.3881",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "銅箔基板(印刷電路板用)",
+        "coe": "8.18",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "無鉛銲錫",
+        "coe": "7.8496",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "乙二醇",
+        "coe": "1.3665",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "異丙醇",
+        "coe": "1.499",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "甲醛，37％",
+        "coe": "0.7",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "乙醛，40％",
+        "coe": "1.86",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "丁酮",
+        "coe": "3.15",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "二甲苯",
+        "coe": "2.8",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "牛皮紙",
+        "coe": "1.08",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "抄紙(裱面紙板)",
+        "coe": "1.164",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "電力碳足跡(2011)",
+        "coe": "0.698",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "電力排放係數(2011)",
+        "coe": "0.536",
+        "unit": "度(kwh)",
+        "departmentname": "經濟部能源局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "氫氧化銨",
+        "coe": "1.2383",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "過氧化氫，30％",
+        "coe": "4.6657",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "液態氧，99.99995％",
+        "coe": "1.44",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "氮氣(電子級)",
+        "coe": "0.184",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "磷酸，85％",
+        "coe": "4.65",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "氫氟酸，48％",
+        "coe": "3.5244",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2013"
+    },
+    {
+        "name": "氫氧化鈣(熟石灰)",
+        "coe": "1.57",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "碳酸氫鈉",
+        "coe": "2.13",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "闊葉樹漂白硫酸鹽紙漿",
+        "coe": "3.699",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "脫墨紙漿(再生料)",
+        "coe": "1.464",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "自用大客車(柴油)",
+        "coe": "0.0606",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "自用小客車(汽油)",
+        "coe": "0.115",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "營業小客車(汽油)",
+        "coe": "0.133",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "機器腳踏車(汽油)",
+        "coe": "0.0951",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "食用大豆油",
+        "coe": "1.23",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "營業大客車(市區公車及公路客運-柴油)",
+        "coe": "0.0944",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "水泥熟料",
+        "coe": "0.95",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "卜特蘭水泥(乾式)",
+        "coe": "0.94",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "纖維水泥板\/矽酸鈣板",
+        "coe": "1.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "電力碳足跡(2012)",
+        "coe": "0.69",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "臺北自來水(2013)",
+        "coe": "0.17",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "天然氣(於固定源使用，2012)",
+        "coe": "2.52",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "原生木漿影印紙",
+        "coe": "4.244",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "再生影印紙",
+        "coe": "3.083",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "乙醇胺",
+        "coe": "1.84",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "平面顯示器用玻璃基板",
+        "coe": "5.86",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "玻璃容器",
+        "coe": "1.02",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "玻璃纖維絲",
+        "coe": "2.76",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "聚碳酸酯(非光氣法，一般級)",
+        "coe": "9.42",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "苯乙烯-丁二烯橡膠",
+        "coe": "2.41",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "熱可塑性橡膠",
+        "coe": "3.76",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "三聚氰胺樹脂",
+        "coe": "3.87",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "二氧化鈦(非食品級)",
+        "coe": "4.28",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "氨",
+        "coe": "1.87",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "鹽酸，37％",
+        "coe": "1.69",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "硫酸，98％",
+        "coe": "0.147",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "氫氧化鈉，45％",
+        "coe": "1.54",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "甲醇",
+        "coe": "2.34",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "乙醇",
+        "coe": "2.57",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "不飽和聚酯樹脂",
+        "coe": "4.01",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "乙酸乙酯",
+        "coe": "3.98",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "丁腈橡膠",
+        "coe": "3.47",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "聚丁二烯橡膠",
+        "coe": "2.86",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "苯乙烯-丙烯腈共聚合物(一般級)",
+        "coe": "2.42",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "鋅錠",
+        "coe": "9.18",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "多元氯化鋁",
+        "coe": "3.57",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "乙烯丙烯橡膠",
+        "coe": "2.89",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "亞硝酸鹽(工業鹽)",
+        "coe": "2.01",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "重質鋅氧粉",
+        "coe": "4.830878",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "輕質鋅氧粉",
+        "coe": "2.02138",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2012)",
+        "coe": "3.98",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "柴油(未燃燒，2012)",
+        "coe": "0.74",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "柴油(於固定源使用，2012)",
+        "coe": "3.42",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "柴油(於移動源使用，2012)",
+        "coe": "3.45",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "車用汽油(未燃燒，2012)",
+        "coe": "0.65",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2012)",
+        "coe": "3",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2012)",
+        "coe": "3.1",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "再生料-廢機車-碎鐵(鋼)",
+        "coe": "0.3025",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "再生料-廢汽車-碎鐵(鋼)",
+        "coe": "0.3268",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢棄物清除處理服務(南部科學工業園區-台南園區)",
+        "coe": "715.79",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管局台南園區資源再生中心",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢棄物掩埋清理服務(南部科學工業園區-台南園區)",
+        "coe": "7.07",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管局台南園區資源再生中心",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢棄物焚化清理服務(南部科學工業園區-台南園區)",
+        "coe": "737.14",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管局台南園區資源再生中心",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢棄物物化清理服務(南部科學工業園區-台南園區)",
+        "coe": "122.78",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管局台南園區資源再生中心",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢棄物固化清理服務(南部科學工業園區-台南園區)",
+        "coe": "649.1",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管局台南園區資源再生中心",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "國際展覽",
+        "coe": "0",
+        "unit": "每平方米‧每小時",
+        "departmentname": "國際貿易局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "國際展覽(交通)",
+        "coe": "0",
+        "unit": "每人",
+        "departmentname": "國際貿易局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "國際會議",
+        "coe": "3.31",
+        "unit": "每人‧每小時",
+        "departmentname": "國際貿易局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "國際會議(交通)",
+        "coe": "0",
+        "unit": "每人",
+        "departmentname": "國際貿易局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2012)",
+        "coe": "2.09",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "食用醋(酒粕醋)",
+        "coe": "0.68",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "食用醋(糯米醋)",
+        "coe": "0.42",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "營業遊覽車(柴油)",
+        "coe": "0.0441",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "自用大貨車(柴油)",
+        "coe": "0.2235",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "自用小貨車(汽油)",
+        "coe": "0.7393",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "自用小貨車(柴油)",
+        "coe": "0.693",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "營業小貨車(汽油)",
+        "coe": "0.6259",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "營業小貨車(柴油)",
+        "coe": "0.647",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "營業大貨車(柴油)",
+        "coe": "0.235",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "合成偶氮類有機顏料",
+        "coe": "5.03",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "陰離子性有機界面活性劑",
+        "coe": "2.84",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "陽離子性有機界面活性劑",
+        "coe": "2.95",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "非離子性有機界面活性劑",
+        "coe": "2.75",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "特製液糖(20公噸)",
+        "coe": "7.03",
+        "unit": "公噸(mt)",
+        "departmentname": "台灣糖業公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "精製二砂(25公斤)",
+        "coe": "14.67",
+        "unit": "包",
+        "departmentname": "台灣糖業公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "精製細砂(25公斤)",
+        "coe": "15.47",
+        "unit": "包",
+        "departmentname": "台灣糖業公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "自產二砂(50公斤)",
+        "coe": "57.95",
+        "unit": "包",
+        "departmentname": "台灣糖業公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "精製特砂(50公斤)",
+        "coe": "29.6",
+        "unit": "包",
+        "departmentname": "台灣糖業公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "精製特砂(1公噸，太空袋裝)",
+        "coe": "606.55",
+        "unit": "公噸(mt)",
+        "departmentname": "台灣糖業公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "養殖石斑魚活體",
+        "coe": "5834.88",
+        "unit": "公噸(mt)",
+        "departmentname": "行政院農業委員會漁業署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "養殖石斑魚條凍",
+        "coe": "7072.67",
+        "unit": "公噸(mt)",
+        "departmentname": "行政院農業委員會漁業署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "養殖吳郭魚冷凍魚片",
+        "coe": "4476.42",
+        "unit": "公噸(mt)",
+        "departmentname": "行政院農業委員會漁業署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "盒裝去殼牡蠣",
+        "coe": "1096.25",
+        "unit": "公噸(mt)",
+        "departmentname": "行政院農業委員會漁業署",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢水處理排放服務(南部科學工業園區管理局-高雄園區)",
+        "coe": "0.61",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管理局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "廢水處理排放服務(南部科學工業園區管理局-台南園區)",
+        "coe": "0.77",
+        "unit": "公噸(mt)",
+        "departmentname": "南部科學工業園區管理局",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "石英晶體振盪器(BB系列)",
+        "coe": "0.09",
+        "unit": "顆",
+        "departmentname": "台灣晶技股份有限公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "石英晶體諧振器車用電子零件(AB系列)",
+        "coe": "0.09",
+        "unit": "顆",
+        "departmentname": "台灣晶技股份有限公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "石英晶體諧振器車用電子零件(AM系列)",
+        "coe": "0.09",
+        "unit": "顆",
+        "departmentname": "台灣晶技股份有限公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "T-12型熱敏CTP版(含顯影劑)",
+        "coe": "8.39",
+        "unit": "平方公尺(m2)",
+        "departmentname": "太普高精密影像股份有限公司",
+        "announcementyear": "2014"
+    },
+    {
+        "name": "電力碳足跡(2013)",
+        "coe": "0.66",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2013)",
+        "coe": "4.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "柴油(未燃燒，2013)",
+        "coe": "0.76",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "柴油(於固定源使用，2013)",
+        "coe": "3.46",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "柴油(於移動源使用，2013)",
+        "coe": "3.49",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "車用汽油(未燃燒，2013)",
+        "coe": "0.69",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2013)",
+        "coe": "3.03",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2013)",
+        "coe": "3.12",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "天然氣(於固定源使用，2013)",
+        "coe": "2.59",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2013)",
+        "coe": "2.34",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "丙烯腈-丁二烯橡膠",
+        "coe": "2.74",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚丁二烯橡膠",
+        "coe": "2.99",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "熱可塑性橡膠",
+        "coe": "3.6",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚氨基甲酸乙酯樹脂",
+        "coe": "3.17",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚氨基甲酸脂合成皮(濕式法)",
+        "coe": "8.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚氨基甲酸脂合成皮(乾式法)",
+        "coe": "8.7",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "高密度聚乙烯(HDPE)",
+        "coe": "2.25",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "發泡聚苯乙烯",
+        "coe": "1.96",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "甲基丙烯酸甲酯",
+        "coe": "3.93",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "乙烯",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "乙烯",
+        "coe": "1.88",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "丙烯",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "丙烯",
+        "coe": "1.88",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "丁二烯",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "丁二烯",
+        "coe": "1.88",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "乙炔",
+        "coe": "6.08",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "氫氣",
+        "coe": "6.97",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "氧氣",
+        "coe": "0.16",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "液氧",
+        "coe": "0.39",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "碳黑",
+        "coe": "1.5",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "氨水",
+        "coe": "1.61",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "馬鈴薯",
+        "coe": "0.11",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "小麥粉",
+        "coe": "0.72",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鉛蓄電池-ABS塑膠",
+        "coe": "0.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鉛蓄電池-PP塑膠",
+        "coe": "0.15",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鉛蓄電池-鉛錠",
+        "coe": "0.76",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢輪胎-橡膠片",
+        "coe": "0.06",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢輪胎-橡膠粉",
+        "coe": "0.13",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢乾電池-二氧化錳",
+        "coe": "0.31",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢乾電池-鋅",
+        "coe": "0.16",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢乾電池-鐵",
+        "coe": "0.22",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢照明光源-混合五金廢料",
+        "coe": "0.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢照明光源-蒸餾汞",
+        "coe": "1635.66",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢照明光源-廢玻璃",
+        "coe": "0.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢照明光源-廢塑膠",
+        "coe": "0.33",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢照明光源-廢鋁",
+        "coe": "0.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢照明光源-廢鐵",
+        "coe": "0.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PE廢塑膠片",
+        "coe": "0.2",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PET廢塑膠片",
+        "coe": "0.35",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PP廢塑膠片",
+        "coe": "0.32",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PVC廢塑膠片",
+        "coe": "0.22",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-未發泡PS廢塑膠片",
+        "coe": "0.2",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢玻璃容器-玻璃砂",
+        "coe": "0.11",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢紙容器-脫墨紙漿",
+        "coe": "0.32",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢塑膠容器-發泡PS廢塑膠粒",
+        "coe": "0.53",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鋁容器-鋁錠",
+        "coe": "1.19",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鐵容器-碎鐵",
+        "coe": "0.25",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PE廢塑膠片（含容器廢棄階段）",
+        "coe": "0.22",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PET廢塑膠片（含容器廢棄階段）",
+        "coe": "0.39",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PP廢塑膠片（含容器廢棄階段）",
+        "coe": "0.35",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-PVC廢塑膠片（含容器廢棄階段）",
+        "coe": "0.24",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢容器-未發泡PS廢塑膠片（含容器廢棄階段）",
+        "coe": "0.22",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢玻璃容器-玻璃砂（含容器廢棄階段）",
+        "coe": "0.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢紙容器-脫墨紙漿（含容器廢棄階段）",
+        "coe": "0.36",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢塑膠容器-發泡PS廢塑膠粒（含容器廢棄階段）",
+        "coe": "0.66",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鋁容器-鋁錠（含容器廢棄階段）",
+        "coe": "1.23",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢鐵容器-碎鐵（含容器廢棄階段）",
+        "coe": "0.26",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部回收基管會",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "尿素",
+        "coe": "1.65",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "馬口鐵",
+        "coe": "2.43",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「104年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "硝酸銨",
+        "coe": "1.76",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "瓦楞芯紙(原紙)",
+        "coe": "0.72",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "中密度纖維板",
+        "coe": "1.12",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "次氯酸鈉(工業用)",
+        "coe": "0.51",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "亞硫酸鈉",
+        "coe": "1.08",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "硫代硫酸鈉(結晶、無水)",
+        "coe": "4.99",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "氯化鉀(肥料用)",
+        "coe": "0.61",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "氯化鉀(非肥料用)",
+        "coe": "0.21",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚酯纖維棉(已精梳，供紡織用)",
+        "coe": "4.52",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚醯胺66(尼龍66)",
+        "coe": "7.21",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "石膏",
+        "coe": "0.35",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "生石灰",
+        "coe": "1.25",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "活性沸石",
+        "coe": "3.47",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "矽藻土",
+        "coe": "1.02",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局「103年製造業產品碳足跡輔導與推廣計畫」",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "七星鱸",
+        "coe": "4.87",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "芝麻油",
+        "coe": "614.64",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "醬油(高蛋白豆片釀造)",
+        "coe": "849.88",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "醬油(黃豆釀造)",
+        "coe": "1.68",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "醬油(黑豆釀造)",
+        "coe": "2.22",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "養殖文蛤",
+        "coe": "4.87",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會漁業署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "養殖冷凍白蝦",
+        "coe": "9.37",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會漁業署",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "鮮蛋",
+        "coe": "0.28",
+        "unit": "顆",
+        "departmentname": "石安牧場",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "石質地磚",
+        "coe": "4.5",
+        "unit": "公斤(kg)",
+        "departmentname": "宏洲窯業股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "插電感應式水龍頭(H-4100LR)",
+        "coe": "16.98",
+        "unit": "公斤(kg)",
+        "departmentname": "牧新科技股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "電池感應式水龍頭(HB-4100LR)",
+        "coe": "19.41",
+        "unit": "公斤(kg)",
+        "departmentname": "牧新科技股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "摃丸",
+        "coe": "1.72",
+        "unit": "公斤(kg)",
+        "departmentname": "新宇禎福記摃丸有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "炊粉",
+        "coe": "0.57",
+        "unit": "公斤(kg)",
+        "departmentname": "新華米粉廠有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼廚用雙層置物架(3230S)",
+        "coe": "10.28",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼掛式砧板刀架(6554S)",
+        "coe": "5.23",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼牆角架(9020S，大)",
+        "coe": "3.33",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼雙層牆角架(9022HS)",
+        "coe": "6.48",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼雙層牆角架含底座(9239S)",
+        "coe": "7.47",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼雙層牆角架(5326S)",
+        "coe": "5.76",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼置物毛巾架(9322S，雙管)",
+        "coe": "10.19",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼置物毛巾架(9310S，單管)",
+        "coe": "7.53",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼衛生紙架(9307S，抽取式)",
+        "coe": "2.53",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "不鏽鋼三層牆角架(5327S)",
+        "coe": "7.87",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、朝盟股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "高速鐵路運輸服務",
+        "coe": "0.038",
+        "unit": "延人公里(pkm)",
+        "departmentname": "環境部、台灣高速鐵路股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "LED 路燈(70W)",
+        "coe": "650",
+        "unit": "個",
+        "departmentname": "堤維西交通工業股份有限公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "碳鋼鋼胚(電弧爐製程)",
+        "coe": "0.53",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "鋼筋",
+        "coe": "0.66",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "乙烯-乙烯醇共聚物",
+        "coe": "6.19",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚甲基丙烯酸甲酯",
+        "coe": "4.19",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "酚醛樹脂",
+        "coe": "2.5",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "硫酸銨",
+        "coe": "1.68",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "多元氯化鋁(氧化還原置換法)",
+        "coe": "0.03",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "多元氯化鋁(鋁灰鹽酸法)",
+        "coe": "0.5",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "鹽酸，32％(電子級)",
+        "coe": "0.68",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "發煙硫酸",
+        "coe": "0.22",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "醋酸乙烯單體",
+        "coe": "3.31",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚醯胺絲",
+        "coe": "8.81",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚醯胺粒",
+        "coe": "7.1",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚酯加工絲",
+        "coe": "5.04",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "聚酯半延伸絲",
+        "coe": "4.14",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "石膏板",
+        "coe": "0.51",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "廢溶劑蒸餾回收處理服務",
+        "coe": "0.21",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "有害事業廢棄物穩定化\/固化處理服務",
+        "coe": "0.29",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "PVC塑膠管、PVC板",
+        "coe": "2.4",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(2000psi)",
+        "coe": "255",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(2500psi)",
+        "coe": "301",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(3000psi)",
+        "coe": "347",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(3500psi)",
+        "coe": "370",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(4000psi)",
+        "coe": "393",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(5000psi)",
+        "coe": "464",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "預拌混凝土(6000psi)",
+        "coe": "533",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "水泥砂漿(1:1)",
+        "coe": "952",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "水泥砂漿粉刷(1:1)",
+        "coe": "21.4",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "水泥砂漿(1:2)",
+        "coe": "625",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "水泥砂漿粉刷(1:2)",
+        "coe": "14.1",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "水泥砂漿(1:3)",
+        "coe": "437",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "水泥砂漿粉刷(1:3)",
+        "coe": "9.83",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "門窗鋁框",
+        "coe": "3.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "門窗鋁框",
+        "coe": "14.4",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "臺灣鐵路運輸服務(柴聯車)",
+        "coe": "70",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部鐵路改建工程局",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "臺灣鐵路運輸服務(電聯車)",
+        "coe": "54",
+        "unit": "延人公里(pkm)",
+        "departmentname": "交通部鐵路改建工程局",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-廢鐵",
+        "coe": "0.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-廢銅",
+        "coe": "0.11",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-廢鋁",
+        "coe": "0.15",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-廢塑膠",
+        "coe": "0.13",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-廢玻璃",
+        "coe": "0.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電視機暨廢顯示器-錐管玻璃",
+        "coe": "0.1",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢冰箱-廢R11冷媒(活性碳冰水機法)",
+        "coe": "6.38",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢冰箱-廢R11冷媒(液態氮法)",
+        "coe": "16",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢冰箱-廢R12冷媒",
+        "coe": "0.9",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢冷暖氣機-廢R22冷媒",
+        "coe": "0.48",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-廢潤滑油",
+        "coe": "0.1",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢電子電器暨廢資訊物品-待再處理二次料",
+        "coe": "0.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢壓縮機\/廢馬達二次拆解-廢鐵",
+        "coe": "0.15",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢壓縮機\/廢馬達二次拆解-廢銅",
+        "coe": "0.14",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生料-廢壓縮機\/廢馬達二次拆解-廢鋁",
+        "coe": "0.14",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "住宿服務",
+        "coe": "2.6",
+        "unit": "每坪-每天",
+        "departmentname": "福容大飯店股份有限公司桃園分公司",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "再生鋁錠",
+        "coe": "0.7",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2015"
+    },
+    {
+        "name": "對苯二甲酸",
+        "coe": "1.76",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "己內醯胺",
+        "coe": "3.39",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "焦糖烤布丁",
+        "coe": "0.34",
+        "unit": "個",
+        "departmentname": "台南市政府環境保護局、紅磚布丁",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦電源線(含插頭端)",
+        "coe": "0.68",
+        "unit": "條",
+        "departmentname": "環境部、宏碁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "苯",
+        "coe": "1.82",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "對二甲苯\/鄰二甲苯",
+        "coe": "1.81",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氯乙烯單體",
+        "coe": "2.89",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "通用級聚苯乙烯(GPPS)",
+        "coe": "1.97",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "耐衝擊聚苯乙烯(HIPS)",
+        "coe": "2.72",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "線性低密度聚乙烯(LLDPE)",
+        "coe": "2.01",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "丙烯腈",
+        "coe": "3.37",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "聚酯棉",
+        "coe": "4.17",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "聚酯粒",
+        "coe": "3.74",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "聚丙烯腈棉",
+        "coe": "4.76",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "醇酸樹脂",
+        "coe": "3.18",
+        "unit": "公斤(kg)",
+        "departmentname": "財團法人工業技術研究院",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "聚醯胺接著劑",
+        "coe": "3.61",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "水性水泥漆",
+        "coe": "1.33",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "平板玻璃",
+        "coe": "1.12",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "電力碳足跡(2014)",
+        "coe": "0.65",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2014)",
+        "coe": "4",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "柴油(未燃燒，2014)",
+        "coe": "0.75",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "柴油(於固定源使用，2014)",
+        "coe": "3.45",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "柴油(於移動源使用，2014)",
+        "coe": "3.48",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "車用汽油(未燃燒，2014)",
+        "coe": "0.67",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2014)",
+        "coe": "3.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2014)",
+        "coe": "3.1",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "天然氣(於固定源使用，2014)",
+        "coe": "2.61",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2014)",
+        "coe": "2.26",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "煤油使用(2014)",
+        "coe": "3.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦照相機模組",
+        "coe": "0.41",
+        "unit": "個",
+        "departmentname": "環境部、宏碁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦鍵盤",
+        "coe": "0.89",
+        "unit": "個",
+        "departmentname": "環境部、宏碁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦觸控板",
+        "coe": "3.06",
+        "unit": "片",
+        "departmentname": "環境部、宏碁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "螺絲(不含球化、表面皮膜處理與電鍍)",
+        "coe": "3.37",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "螺絲(含球化與表面皮膜處理及電鍍)",
+        "coe": "3.41",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "不銹鋼焊接管",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "液氯",
+        "coe": "1.39",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氫氧化鉀",
+        "coe": "1.47",
+        "unit": "公斤(kg)",
+        "departmentname": "產品碳足跡計算服務平台、工研院DoITPro資料庫",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "二甲醚",
+        "coe": "2.28",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "硝酸，98％",
+        "coe": "1.37",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "丙酮",
+        "coe": "1.82",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "冰醋酸(甲醇羰基化法)",
+        "coe": "2.58",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "冰醋酸(醋酸甲酯與甲醇共沸物羰基合成法)",
+        "coe": "2.05",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "尿素甲醛樹脂(65％固形物)",
+        "coe": "1.62",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "污泥掩埋處理服務",
+        "coe": "0.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "食用玉蜀黍",
+        "coe": "0.29",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "石灰石",
+        "coe": "0.00535",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "國內海運貨物運輸服務(柴油動力)",
+        "coe": "0.0334",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "國內海運貨物運輸服務(燃料油動力)",
+        "coe": "0.0354",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "國際海運貨物運輸服務(燃料油動力)",
+        "coe": "0.0198",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "蔗糖",
+        "coe": "0.37",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "糖蜜",
+        "coe": "0.32",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "混凝土及水泥砂漿用水淬高爐爐碴粉(散裝)",
+        "coe": "50.44",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "混凝土及水泥砂漿用水淬高爐爐碴粉(太空包裝)",
+        "coe": "54.73",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "飛灰爐石粉(散裝)",
+        "coe": "48.19",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "飛灰爐石粉(太空包裝)",
+        "coe": "52.48",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "卜特蘭高爐爐碴水泥(散裝)",
+        "coe": "512.57",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "卜特蘭高爐爐碴水泥(太空包裝)",
+        "coe": "516.86",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "新型高爐水泥(50kg，紙袋裝)",
+        "coe": "22.97",
+        "unit": "包",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "地質改良處理劑(散裝)",
+        "coe": "313.55",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "地質改良處理劑(太空包裝)",
+        "coe": "317.84",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "地質改良處理劑(50kg，紙袋裝)",
+        "coe": "15.93",
+        "unit": "包",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "瀝青鋪面用粒料(散裝)",
+        "coe": "4.72",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦包裝紙箱(三層一浪)",
+        "coe": "0.53",
+        "unit": "個",
+        "departmentname": "環境部、宏碁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦包裝紙箱(三層一浪)",
+        "coe": "0.00205",
+        "unit": "公克(g)",
+        "departmentname": "環境部、宏碁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "食品包裝紙容器",
+        "coe": "8.24",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "食品包裝紙容器",
+        "coe": "0.0965",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "石英晶體振盪器(AW系列)",
+        "coe": "0.06",
+        "unit": "顆",
+        "departmentname": "台灣晶技股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氣冷轉爐石級配料(散裝)",
+        "coe": "1.58",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氣冷高爐石級配料(散裝)",
+        "coe": "1.69",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "大豆沙拉油 (0.6 L)",
+        "coe": "0.895",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "大豆沙拉油 (2 L)",
+        "coe": "3.07",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "大豆沙拉油 (2.6 L)",
+        "coe": "3.87",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "大豆沙拉油 (3 L)",
+        "coe": "4.45",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "大豆沙拉油 (18 L)",
+        "coe": "27.7",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "大豆沙拉油 (18 kg)",
+        "coe": "30.4",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "烤酥油 (2 L)",
+        "coe": "3.07",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "烤酥油 (3 L)",
+        "coe": "4.42",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "烤酥油 (18 L)",
+        "coe": "27.5",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "烤酥油 (18 kg)",
+        "coe": "30.5",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "歪頭奶瓶(240ml)",
+        "coe": "3.16",
+        "unit": "個",
+        "departmentname": "春池玻璃實業有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "高粱酒(58度，600ml)",
+        "coe": "4",
+        "unit": "瓶",
+        "departmentname": "台南市政府環境保護局、成大酒廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "水性白膠",
+        "coe": "1.1",
+        "unit": "包",
+        "departmentname": "台南市政府環境保護局、南寶樹脂化學工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "磨石子地磚(30cm*30cm*2cm)",
+        "coe": "1.7",
+        "unit": "片",
+        "departmentname": "台南市政府環境保護局、晶泰水泥加工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "磨石子地磚(30cm*60cm*2cm)",
+        "coe": "3.2",
+        "unit": "片",
+        "departmentname": "台南市政府環境保護局、晶泰水泥加工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "磨石子地磚(40cm*40cm*2cm)",
+        "coe": "3.4",
+        "unit": "片",
+        "departmentname": "台南市政府環境保護局、晶泰水泥加工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "磨石子地磚(45cm*45cm*2cm)",
+        "coe": "4",
+        "unit": "片",
+        "departmentname": "台南市政府環境保護局、晶泰水泥加工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "磨石子地磚(50cm*50cm*2.5cm)",
+        "coe": "5",
+        "unit": "片",
+        "departmentname": "台南市政府環境保護局、晶泰水泥加工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "磨石子地磚(60cm*60cm*2.5cm)",
+        "coe": "7.5",
+        "unit": "片",
+        "departmentname": "台南市政府環境保護局、晶泰水泥加工廠股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "豆漿(450ml，鋁箔包裝)",
+        "coe": "0.16",
+        "unit": "盒",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "奶茶(250ml，鋁箔包裝)",
+        "coe": "0.11",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "奶茶(300ml，鋁箔包裝)",
+        "coe": "0.13",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "奶茶(375ml，鋁箔包裝)",
+        "coe": "0.16",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "紅茶(250ml，鋁箔包裝)",
+        "coe": "0.095",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "紅茶(300ml，鋁箔包裝)",
+        "coe": "0.11",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "紅茶(375ml，鋁箔包裝)",
+        "coe": "0.13",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "綠茶(250ml，鋁箔包裝)",
+        "coe": "0.09",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "綠茶(300ml，鋁箔包裝)",
+        "coe": "0.1",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "百貨零售服務",
+        "coe": "0.05",
+        "unit": "每平方米‧每小時",
+        "departmentname": "太平洋崇光百貨股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "OPP膠帶",
+        "coe": "0.385",
+        "unit": "平方公尺(m2)",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "OPP膠帶",
+        "coe": "0.648",
+        "unit": "卷",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "PVC膠帶",
+        "coe": "1.62",
+        "unit": "平方公尺(m2)",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "PVC膠帶",
+        "coe": "0.935",
+        "unit": "卷",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "番茄醬",
+        "coe": "6.48",
+        "unit": "罐",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "麵粉",
+        "coe": "0.531",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "台灣鯛",
+        "coe": "2.29",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "太陽光電模組發電(10KW，2014)",
+        "coe": "0.00998",
+        "unit": "度(kwh)",
+        "departmentname": "經濟部能源局、陽光屋頂百萬座計畫推動辦公室",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "風力發電機組發電(1500KW，2014)",
+        "coe": "0.00395",
+        "unit": "度(kwh)",
+        "departmentname": "經濟部能源局、台電公司再生能源處運維組",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "L (低碳鋼)級不銹鋼焊接管",
+        "coe": "7.48",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒 (330 ml，收縮膜6罐裝)",
+        "coe": "0.21",
+        "unit": "罐",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒(330 ml，收縮膜6罐裝)",
+        "coe": "1.29",
+        "unit": "組",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒(330 ml，紙箱24罐裝)",
+        "coe": "0.21",
+        "unit": "罐",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒(330 ml，紙箱24罐裝)",
+        "coe": "5.14",
+        "unit": "箱",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒(500 ml，紙箱24罐裝)",
+        "coe": "0.32",
+        "unit": "罐",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒(500 ml，紙箱24罐裝)",
+        "coe": "7.64",
+        "unit": "箱",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "經典台灣啤酒(600 ml，玻璃瓶裝)",
+        "coe": "0.33",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(330 ml，收縮膜6罐裝)",
+        "coe": "0.22",
+        "unit": "罐",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(330 ml，收縮膜6罐裝)",
+        "coe": "1.33",
+        "unit": "組",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(330 ml，紙箱24罐裝)",
+        "coe": "0.22",
+        "unit": "罐",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(330 ml，紙箱24罐裝)",
+        "coe": "5.3",
+        "unit": "箱",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(500 ml，紙箱24罐裝)",
+        "coe": "0.33",
+        "unit": "罐",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(500 ml ，紙箱24罐裝)",
+        "coe": "7.88",
+        "unit": "箱",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(600 ml，紙箱12瓶裝)",
+        "coe": "0.4",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "金牌台灣啤酒(600 ml，紙箱12瓶裝)",
+        "coe": "9.48",
+        "unit": "箱",
+        "departmentname": "環境部、台灣菸酒股份有限公司善化啤酒廠、中華航空公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "筆記型電腦(11.6吋)",
+        "coe": "81",
+        "unit": "台",
+        "departmentname": "環境部、宏碁股份有限公司、廣達電腦股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "沐浴乳",
+        "coe": "1.8",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "沐浴乳(15ml，鋁箔包裝)",
+        "coe": "0.0571",
+        "unit": "包",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "沐浴乳(30ml，軟管包裝)",
+        "coe": "0.115",
+        "unit": "罐",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "沐浴乳(30ml，瓶裝包裝)",
+        "coe": "0.115",
+        "unit": "罐",
+        "departmentname": "環境部",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "苯胺",
+        "coe": "5.19",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "1馬力磁力驅動無軸封泵浦(不含馬達)",
+        "coe": "78.01",
+        "unit": "台",
+        "departmentname": "協磁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "3馬力磁力驅動無軸封泵浦(不含馬達)",
+        "coe": "94.75",
+        "unit": "台",
+        "departmentname": "協磁股份有限公司",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "硝酸銨鈣(肥料用)",
+        "coe": "1.8",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "丙三醇",
+        "coe": "2.16",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "乙二醇丁醚",
+        "coe": "1.91",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "丙烯醯胺",
+        "coe": "2.32",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氬氣",
+        "coe": "0.3",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "硝酸鈉 (非肥料用)",
+        "coe": "3.22",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "木漿(針葉樹化學木漿-半漂白或已漂白)",
+        "coe": "0.93",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "乙二胺",
+        "coe": "6.18",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "鉛(精鍊，未鍛造)",
+        "coe": "1.7",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "電解銅(陰極及陰極型精鍊銅-未經塑性加工)",
+        "coe": "3.87",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氯化鈉",
+        "coe": "0.44",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "碳酸鈉",
+        "coe": "1.9",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "氯苯",
+        "coe": "3.87",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "鎂錠",
+        "coe": "28.7",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "微藻素火腿",
+        "coe": "2.49",
+        "unit": "條",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "猴頭菇素火腿",
+        "coe": "2.43",
+        "unit": "條",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "煙燻素火腿",
+        "coe": "2.59",
+        "unit": "條",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "素火腿",
+        "coe": "2.37",
+        "unit": "條",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "芝麻粉",
+        "coe": "2.58",
+        "unit": "罐",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "清麻油(300 ml)",
+        "coe": "1.38",
+        "unit": "瓶",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "清麻油(500 ml)",
+        "coe": "2.54",
+        "unit": "瓶",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "黑麻油(300 ml)",
+        "coe": "1.38",
+        "unit": "瓶",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "黑麻油(500 ml)",
+        "coe": "2.53",
+        "unit": "瓶",
+        "departmentname": "台南市政府環境保護局",
+        "announcementyear": "2016"
+    },
+    {
+        "name": "電力碳足跡(2015)",
+        "coe": "0.654",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2015)",
+        "coe": "4",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "柴油(未燃燒，2015)",
+        "coe": "0.752",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "柴油(於固定源使用，2015)",
+        "coe": "3.45",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "柴油(於移動源使用，2015)",
+        "coe": "3.48",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "天然橡膠(乳膠)",
+        "coe": "2.71",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "銀(未鍛造)",
+        "coe": "31.9",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "乙二酸",
+        "coe": "4.34",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "錳(未經塑性加工)",
+        "coe": "6.98",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "車用汽油(未燃燒，2015)",
+        "coe": "0.671",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "氫氧化鋁",
+        "coe": "1.05",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "矽酸鈉",
+        "coe": "1",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚對苯二甲酸丁二酯(PBT)",
+        "coe": "2.6",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "不飽和聚酯樹脂",
+        "coe": "5.5",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2015)",
+        "coe": "3.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "乙酸酐",
+        "coe": "2.69",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "丁二醇",
+        "coe": "6.29",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚乙二醇(PEG)",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "未精煉銅(供電解法精煉用之陽極銅)",
+        "coe": "7.59",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2015)",
+        "coe": "3.1",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "重鉻酸鉀",
+        "coe": "4.09",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "1-丁醇",
+        "coe": "2.93",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "異丁醇",
+        "coe": "2.82",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "天然氣(於固定源使用，2015)",
+        "coe": "2.61",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2015)",
+        "coe": "2.26",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.49噸常溫貨車服務(裝載率31％，包含營業據點排放)",
+        "coe": "2.18",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.49噸常溫貨車服務(裝載率84％，包含營業據點排放)",
+        "coe": "0.833",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.5~7.4噸常溫貨車服務(裝載率82％，包含營業據點排放)",
+        "coe": "0.316",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "煤油使用(2015)",
+        "coe": "3.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "7.5~16噸常溫貨車服務(裝載率80％，包含營業據點排放)",
+        "coe": "0.276",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.49噸低溫貨車服務(裝載率32％，包含營業據點排放)",
+        "coe": "2.71",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.49噸低溫貨車服務(裝載率77％，包含營業據點排放)",
+        "coe": "1.55",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.5~7.4噸低溫貨車服務(裝載率41％，包含營業據點排放)",
+        "coe": "1.15",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.5~7.4噸低溫貨車服務(裝載率69％，包含營業據點排放)",
+        "coe": "0.959",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "不鏽鋼盤元(含酸洗與退火加工製程)",
+        "coe": "1.7",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "不鏽鋼盤元(不含酸洗與退火加工製程)",
+        "coe": "1.42",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "晶片電阻",
+        "coe": "170",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "過磷酸鈣",
+        "coe": "0.847",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "銅箔",
+        "coe": "12.4",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "葵花油",
+        "coe": "5.78",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "7.5~16噸低溫貨車服務(裝載率65％，包含營業據點排放)",
+        "coe": "0.961",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "氮氣",
+        "coe": "0.13",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "3.49噸多溫貨車服務(包含營業據點排放)",
+        "coe": "1.66",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "交通部運輸研究所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機越光米",
+        "coe": "1.59",
+        "unit": "公斤(kg)",
+        "departmentname": "宜蘭縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚乙烯醇",
+        "coe": "3.67",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "丁腈橡膠",
+        "coe": "3.04",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "合成橡膠乳液(NBR Latex)",
+        "coe": "1.5",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "合成橡膠乳液(SBR Latex)",
+        "coe": "2.39",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "再生鋅錠",
+        "coe": "0.04",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "紅茶",
+        "coe": "7.04",
+        "unit": "公斤(kg)",
+        "departmentname": "宜蘭縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "再生鋅合金錠",
+        "coe": "0.0403",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機三星蔥",
+        "coe": "0.558",
+        "unit": "公斤(kg)",
+        "departmentname": "宜蘭縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "苯乙烯單體",
+        "coe": "2.17",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "水梨",
+        "coe": "1.79",
+        "unit": "公斤(kg)",
+        "departmentname": "宜蘭縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚酯纖維(短纖，直紡)",
+        "coe": "5",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "天然棉混紡紗",
+        "coe": "4.42",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "精鹽(食用鹽)",
+        "coe": "0.17",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "未漂白牛皮紙袋和麻袋用紙",
+        "coe": "1.24",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "航空貨物運輸服務",
+        "coe": "1.16",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鋼胚(電弧爐製程，不分型號)",
+        "coe": "0.678",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "熱軋竹節鋼筋(不分型號)",
+        "coe": "0.919",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "水泥熟料",
+        "coe": "0.948",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "水泥(不分型號)",
+        "coe": "0.907",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(80kgf\/cm2)",
+        "coe": "207",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(140kgf\/cm2)",
+        "coe": "199",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(175kgf\/cm2)",
+        "coe": "194",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(210kgf\/cm2)",
+        "coe": "220",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(245kgf\/cm2，坍度15-17.5cm)",
+        "coe": "244",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(245kgf\/cm2，坍度50cm)",
+        "coe": "252",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(280kgf\/cm2)",
+        "coe": "263",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "預拌混凝土(420kgf\/cm2)",
+        "coe": "383",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "水中混凝土(210kgf\/cm2)",
+        "coe": "242",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "水中混凝土(280kgf\/cm2)",
+        "coe": "275",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "早強預拌混凝土(420kgf\/cm2，飛灰爐石粉替代率20％)",
+        "coe": "431",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "受阻胺光安定劑 (53gal鐵桶包裝)",
+        "coe": "5.4",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "受阻胺光安定劑 (20L塑膠桶包裝)",
+        "coe": "5.51",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "受阻胺光安定劑(1噸塑膠方桶包裝)",
+        "coe": "5.33",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "苯並三唑紫外線吸收劑 (53gal鐵桶包裝)",
+        "coe": "9.23",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "苯並三唑紫外線吸收劑 (20L塑膠桶包裝)",
+        "coe": "9.34",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "苯並三唑紫外線吸收劑 (1噸塑膠方桶包裝)",
+        "coe": "9.16",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "反應性黑色紡織染料(適用於浸染、連續染色＆冷壓染色，紙箱包裝)",
+        "coe": "14.5",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "反應性黑色紡織染料(適用於印花染色，紙箱包裝)",
+        "coe": "12.9",
+        "unit": "公斤(kg)",
+        "departmentname": "臺灣永光化學工業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "再生料-廢輪胎-再生碳黑",
+        "coe": "518",
+        "unit": "公噸(mt)",
+        "departmentname": "環拓科技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "再生料-廢輪胎-再生裂解油(未燃燒)",
+        "coe": "310",
+        "unit": "公秉(kl)",
+        "departmentname": "環拓科技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鋼胚(電弧爐製程，SD280W)",
+        "coe": "0.703",
+        "unit": "公斤(kg)",
+        "departmentname": "海光企業股份有限公司、公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鋼胚(電弧爐製程，SD420W)",
+        "coe": "0.729",
+        "unit": "公斤(kg)",
+        "departmentname": "海光企業股份有限公司、公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "熱軋竹節鋼筋(SD280W)",
+        "coe": "0.874",
+        "unit": "公斤(kg)",
+        "departmentname": "海光企業股份有限公司、公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "熱軋竹節鋼筋(SD420W)",
+        "coe": "0.901",
+        "unit": "公斤(kg)",
+        "departmentname": "海光企業股份有限公司、公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "免調質鋼車用鍛造件",
+        "coe": "4.84",
+        "unit": "公斤(kg)",
+        "departmentname": "金鍛工業股份有限公司、中國鋼鐵股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "調質鋼車用鍛造件",
+        "coe": "5.7",
+        "unit": "公斤(kg)",
+        "departmentname": "金鍛工業股份有限公司、中國鋼鐵股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "多晶矽太陽能電池",
+        "coe": "3.14",
+        "unit": "片",
+        "departmentname": "環境部、中美矽晶製品股份有限公司宜蘭分公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "單晶矽太陽能電池",
+        "coe": "3.53",
+        "unit": "片",
+        "departmentname": "環境部、中美矽晶製品股份有限公司宜蘭分公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "多晶矽晶片",
+        "coe": "175",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、中美矽晶製品股份有限公司宜蘭分公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "IEC IE3馬達(AEHF系列，4P20HP )",
+        "coe": "695",
+        "unit": "台",
+        "departmentname": "東元電機股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "多晶矽晶碇",
+        "coe": "39.1",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、中美矽晶製品股份有限公司宜蘭分公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖哩醬",
+        "coe": "2",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "正銀漿",
+        "coe": "18.2",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、中美矽晶製品股份有限公司宜蘭分公司、臺灣賀利氏材料科技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "背銀漿",
+        "coe": "13",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、中美矽晶製品股份有限公司宜蘭分公司、臺灣賀利氏材料科技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "氫氟酸，49％",
+        "coe": "3.94",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "味噌",
+        "coe": "1.14",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "素沙茶醬",
+        "coe": "1.58",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "丁腈橡膠手套",
+        "coe": "0.139",
+        "unit": "雙",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鰹魚柴魚花",
+        "coe": "3.82",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "AB楞紙箱(3層2浪)",
+        "coe": "1.19",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "角紙",
+        "coe": "1.14",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "紙棧板",
+        "coe": "1.23",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "緩衝材料組裝用熱熔膠",
+        "coe": "3.41",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "乙烯醋酸乙烯酯共聚物(EVA)",
+        "coe": "3.27",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鯖魚柴魚花",
+        "coe": "3.63",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "低地板甲類市區公車運輸服務(包含營業據點及公車站點排放)",
+        "coe": "0.0575",
+        "unit": "延人公里(pkm)",
+        "departmentname": "府城汽車客運股份有限公司、興南汽車客運股份有限公司、新營汽車客運股份有限公司、臺南市政府環境保護局、臺南市政府交通局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "乙類市區公車運輸服務(包含營業據點及公車站點排放)",
+        "coe": "0.0784",
+        "unit": "延人公里(pkm)",
+        "departmentname": "府城汽車客運股份有限公司、興南汽車客運股份有限公司、新營汽車客運股份有限公司、臺南市政府環境保護局、臺南市政府交通局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "普通甲類市區公車運輸服務(包含營業據點及公車站點排放)",
+        "coe": "0.0767",
+        "unit": "延人公里(pkm)",
+        "departmentname": "府城汽車客運股份有限公司、興南汽車客運股份有限公司、新營汽車客運股份有限公司、臺南市政府環境保護局、臺南市政府交通局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "石蠟",
+        "coe": "1.31",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "萬用免釘膠",
+        "coe": "0.59",
+        "unit": "支",
+        "departmentname": "南寶樹脂化學工廠股份有限公司(五廠)、臺南市環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "廢棄物焚化處理服務(臺南市永康垃圾資源回收(焚化)廠)",
+        "coe": "327",
+        "unit": "公噸(mt)",
+        "departmentname": "臺南市永康垃圾資源回收(焚化)廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "廢棄物焚化處理服務(臺南市城西垃圾焚化廠)",
+        "coe": "333",
+        "unit": "公噸(mt)",
+        "departmentname": "臺南市城西垃圾焚化廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "洗衣粉",
+        "coe": "1.34",
+        "unit": "公斤(kg)",
+        "departmentname": "清淨海生技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔底座(內徑1,800mm)",
+        "coe": "2090",
+        "unit": "個",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔大小頭(內徑1,800mm)",
+        "coe": "575",
+        "unit": "個",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度30cm，內徑1,800mm)",
+        "coe": "248",
+        "unit": "個",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度60cm，內徑1,800mm)",
+        "coe": "501",
+        "unit": "個",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度90cm，內徑1,800mm)",
+        "coe": "755",
+        "unit": "個",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度120cm，內徑1,800mm)",
+        "coe": "957",
+        "unit": "個",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "全鋁質混凝土管(管徑1,000mm)",
+        "coe": "569",
+        "unit": "公尺(m)",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚酯樹脂混凝土管(管徑600mm)",
+        "coe": "169",
+        "unit": "公尺(m)",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚酯樹脂混凝土管(管徑400mm)",
+        "coe": "91.3",
+        "unit": "公尺(m)",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "聚酯樹脂混凝土管(管徑300mm)",
+        "coe": "55.2",
+        "unit": "公尺(m)",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔底座(內徑1,200mm)",
+        "coe": "554",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔大小頭(內徑1,200mm)",
+        "coe": "277",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度30cm，內徑1,200mm)",
+        "coe": "111",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度90cm，內徑1,200mm)",
+        "coe": "338",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度120cm，內徑1,200mm)",
+        "coe": "452",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔底座(內徑1,500mm)",
+        "coe": "1120",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔大小頭(內徑1,500mm)",
+        "coe": "393",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度30cm，內徑1,500mm)",
+        "coe": "164",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度60cm，內徑1,500mm)",
+        "coe": "333",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度90cm，內徑1,500mm)",
+        "coe": "501",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "人孔短管(長度120cm，內徑1,500mm)",
+        "coe": "669",
+        "unit": "個",
+        "departmentname": "中興工程顧問股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇",
+        "coe": "0.3",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(斤耳)",
+        "coe": "0.278",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "無線滑鼠",
+        "coe": "3.76",
+        "unit": "支",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(冬雪菇)",
+        "coe": "0.286",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(杏鮑菇)",
+        "coe": "0.339",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(秀珍菇)",
+        "coe": "0.288",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(柳松菇)",
+        "coe": "0.322",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(珊瑚菇)",
+        "coe": "0.282",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(夏雪菇)",
+        "coe": "0.287",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(猴頭菇)",
+        "coe": "0.341",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(黑木耳)",
+        "coe": "0.279",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(豬肚菇)",
+        "coe": "0.309",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "咖啡菇(鮑魚菇)",
+        "coe": "0.32",
+        "unit": "盒",
+        "departmentname": "國立曾文高級農工職業學校、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "麵條",
+        "coe": "1.24",
+        "unit": "公斤(kg)",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "原味關廟麵",
+        "coe": "1.85",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "烏龍麵",
+        "coe": "1.85",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "芝麻油",
+        "coe": "1.4",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部、福壽實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "芝麻油(543 ml)",
+        "coe": "1.22",
+        "unit": "瓶",
+        "departmentname": "環境部、福壽實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "芝麻油(217ml)",
+        "coe": "0.62",
+        "unit": "瓶",
+        "departmentname": "環境部、福壽實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "可樂(寶特瓶裝，600ml)",
+        "coe": "0.398",
+        "unit": "瓶",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "可樂(寶特瓶裝，2L)",
+        "coe": "0.644",
+        "unit": "瓶",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "柳橙汁(寶特瓶裝，450ml)",
+        "coe": "0.254",
+        "unit": "瓶",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "刀削麵",
+        "coe": "1.13",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "意麵",
+        "coe": "1.13",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "拉麵",
+        "coe": "1.49",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "麵線",
+        "coe": "1.24",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、臺南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "營養麵條",
+        "coe": "7.26",
+        "unit": "包",
+        "departmentname": "合進商行關廟廠、台南市政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "芋香米(台梗4號)",
+        "coe": "3.4",
+        "unit": "包",
+        "departmentname": "東里碾米工廠",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "山穀米(台梗4號)",
+        "coe": "5.5",
+        "unit": "包",
+        "departmentname": "東里碾米工廠",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "良質米(高雄139號品種)",
+        "coe": "6.5",
+        "unit": "包",
+        "departmentname": "東里碾米工廠",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "柿餅",
+        "coe": "0.65",
+        "unit": "盒",
+        "departmentname": "味衛佳柿餅觀光農場、新竹縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "客家桔醬",
+        "coe": "0.5",
+        "unit": "瓶",
+        "departmentname": "阿金姐工作坊",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "大捲筒衛生紙",
+        "coe": "1.8",
+        "unit": "捲",
+        "departmentname": "正大造紙廠股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "抽取式衛生紙(110抽)",
+        "coe": "0.4",
+        "unit": "包",
+        "departmentname": "正大造紙廠股份有限公司、正隆股份有限公司竹北廠",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "環保抽取式衛生紙",
+        "coe": "0.32",
+        "unit": "包",
+        "departmentname": "正隆股份有限公司竹北廠",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "環保抽取式擦手紙巾",
+        "coe": "0.65",
+        "unit": "包",
+        "departmentname": "正隆股份有限公司竹北廠",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "燃料油使用(含90wt％ 生質燃料油，2015)",
+        "coe": "3140",
+        "unit": "公秉(kl)",
+        "departmentname": "經濟部中小企業處、環新能源股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "高山烏龍茶(無烘培-部分發酵)",
+        "coe": "5.71",
+        "unit": "包",
+        "departmentname": "講茶集團",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "高山烏龍茶(有烘培-部分發酵)",
+        "coe": "7.69",
+        "unit": "包",
+        "departmentname": "講茶集團",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "竹炭片(以土窯生產)",
+        "coe": "0.384",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會林務局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "高山烏龍茶(無烘培-完全發酵)",
+        "coe": "6.3",
+        "unit": "包",
+        "departmentname": "講茶集團",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "紅殼雞蛋",
+        "coe": "0.107",
+        "unit": "顆",
+        "departmentname": "麗園農牧科技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "竹炭片(以機械窯生產)",
+        "coe": "0.762",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會林務局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機小麥粉",
+        "coe": "1.4",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部中小企業處、喜願行",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鮮乳",
+        "coe": "2.48",
+        "unit": "公斤(kg)",
+        "departmentname": "金門縣畜產試驗所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "竹炭粒(以土窯生產)",
+        "coe": "0.342",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會林務局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機麩皮胚芽粉",
+        "coe": "1.36",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部中小企業處、喜願行",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機全麥粉",
+        "coe": "1.39",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部中小企業處、喜願行",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機裸麥土司(常溫)",
+        "coe": "1.66",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部中小企業處、喜願行",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "有機廢棄物免發酵轉化肥料處理服務",
+        "coe": "48.3",
+        "unit": "公噸(mt)",
+        "departmentname": "經濟部中小企業處、葉山環保生物科技股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "豬肉(不帶骨)",
+        "coe": "37.1",
+        "unit": "公斤(kg)",
+        "departmentname": "祥圃實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "霜降豬肉(不帶骨)",
+        "coe": "36.6",
+        "unit": "公斤(kg)",
+        "departmentname": "祥圃實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "豬肋排(帶骨50％)",
+        "coe": "36.4",
+        "unit": "公斤(kg)",
+        "departmentname": "祥圃實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "豬肋排(骨頭100％)",
+        "coe": "36.7",
+        "unit": "公斤(kg)",
+        "departmentname": "祥圃實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "竹炭粒(以機械窯生產)",
+        "coe": "0.719",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會林務局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "竹醋液(以土窯生產)",
+        "coe": "0.905",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會林務局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "竹醋液(以機械窯生產)",
+        "coe": "1.31",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會林務局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "落花生",
+        "coe": "0.68",
+        "unit": "公斤(kg)",
+        "departmentname": "行政院農業委員會農業試驗所",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "豬肉",
+        "coe": "36.9",
+        "unit": "公斤(kg)",
+        "departmentname": "祥圃實業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2016)",
+        "coe": "3.96",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "擂茶",
+        "coe": "3.64",
+        "unit": "包",
+        "departmentname": "璞鈺生技食品有限公司、新竹縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "精力湯",
+        "coe": "3.47",
+        "unit": "包",
+        "departmentname": "璞鈺生技食品有限公司、新竹縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "綠茶擂茶",
+        "coe": "4.5",
+        "unit": "包",
+        "departmentname": "璞鈺生技食品有限公司、新竹縣政府環境保護局",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "廢(污)水處理服務(羅東地區水資源回收中心)",
+        "coe": "0.3",
+        "unit": "立方公尺(m3)",
+        "departmentname": "山林水環境工程股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "蛋白質護髮霜",
+        "coe": "1.54",
+        "unit": "瓶",
+        "departmentname": "昇宏國際企業股份有限公司",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "早強預拌混凝土(420kgf\/cm2，飛灰爐石粉替代率25％)",
+        "coe": "443",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "早強預拌混凝土(420kgf\/cm2，飛灰爐石粉替代率45％)",
+        "coe": "336",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "自充填預拌混凝土(350kgf\/cm2)",
+        "coe": "295",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "自充填預拌混凝土(420kgf\/cm2)",
+        "coe": "320",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "噴凝土(210kgf\/cm2)",
+        "coe": "394",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "鋼纖維噴凝土(255kgf\/cm2)",
+        "coe": "433",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "R45水泥混凝土",
+        "coe": "445",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "氫化石油樹脂",
+        "coe": "2.73",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2017"
+    },
+    {
+        "name": "電力碳足跡(2016)",
+        "coe": "0.66",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油(未燃燒，2016)",
+        "coe": "0.735",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油(於固定源使用，2016)",
+        "coe": "3.35",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "環氧氯丙烷(丙烯氯化製程)",
+        "coe": "6.88",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "環氧氯丙烷(醋酸丙烯酯製程)",
+        "coe": "8.04",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "硫化鈉",
+        "coe": "2.33",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "邏輯積體電路",
+        "coe": "732",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油(於公路運輸移動源使用，2016)",
+        "coe": "3.38",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "記憶體積體電路",
+        "coe": "570",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "電解電容",
+        "coe": "16.2",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "積層陶瓷電容",
+        "coe": "334",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "車用汽油(未燃燒，2016)",
+        "coe": "0.656",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "貼片電容",
+        "coe": "101",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "氯化鈣(索爾維製程)",
+        "coe": "1",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "氯化鈣(氫氯化製程)",
+        "coe": "0.415",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "亞硫酸鈉",
+        "coe": "1.83",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2016)",
+        "coe": "2.93",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "化學熱磨機械紙漿",
+        "coe": "1.59",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "硝基苯",
+        "coe": "3.28",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "環氧乙烷",
+        "coe": "2.89",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "碳酸鉀",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2016)",
+        "coe": "3.01",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "煤油使用(2016)",
+        "coe": "2.98",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "天然氣(於固定源使用，2016)",
+        "coe": "2.6",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2016)",
+        "coe": "2.24",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "氧化鐵粉",
+        "coe": "1.28",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "碳酸鉀",
+        "coe": "1.44",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "四氫呋喃(1,3-丁二烯製程)",
+        "coe": "2.47",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "四氫呋喃(丁二醇製程)",
+        "coe": "3.42",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "生牛皮(含養牛階段)",
+        "coe": "4.86",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "生牛皮(不含養牛階段)",
+        "coe": "0.27",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局、台灣區皮革工業同業公會",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "水楊酸",
+        "coe": "2.37",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "苯甲酸",
+        "coe": "1.84",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "乙苯",
+        "coe": "2.37",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "硫酸鈉",
+        "coe": "0.209",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "氦氣",
+        "coe": "1.12",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "甲酸鈉",
+        "coe": "2.26",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部工業局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "精製豬油",
+        "coe": "0.785",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署、統清股份有限公司台南廠",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "精緻牛油",
+        "coe": "0.694",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署、統清股份有限公司台南廠",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "花生油",
+        "coe": "1.95",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署、福壽實業股份有限公司台中港廠",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "優酪乳",
+        "coe": "1.95",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署、味全食品工業股份有限公司斗六廠",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "住宿服務(二人房)",
+        "coe": "54.3",
+        "unit": "每房-每天",
+        "departmentname": "環境部、福容大飯店股份有限公司桃園分公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "住宿服務(三人房)",
+        "coe": "57.2",
+        "unit": "每房-每天",
+        "departmentname": "環境部、福容大飯店股份有限公司桃園分公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "住宿服務(四人房)",
+        "coe": "60.1",
+        "unit": "每房-每天",
+        "departmentname": "環境部、福容大飯店股份有限公司桃園分公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "航空旅客運輸服務(松山-金門)",
+        "coe": "0.281",
+        "unit": "延人公里(pkm)",
+        "departmentname": "環境部、交通部民用航空局、松山機場、金門機場、華信航空、台灣航勤",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "全鋁質混凝土管（管徑 300mm）",
+        "coe": "94.8",
+        "unit": "公尺(m)",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "全鋁質混凝土管（管徑 800mm）",
+        "coe": "199",
+        "unit": "公尺(m)",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "鋁質水泥",
+        "coe": "10.1",
+        "unit": "公斤(kg)",
+        "departmentname": "內政部營建署",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "單結晶矽電池太陽光電模組（60片6吋）",
+        "coe": "413",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "單結晶矽電池太陽光電模組（96片5吋）",
+        "coe": "417",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "薄膜型太陽光電模組",
+        "coe": "407",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "以柴油動力垃圾車清除運輸一般廢棄物",
+        "coe": "1.31",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "客船服務（台東富岡-綠島）",
+        "coe": "11.6",
+        "unit": "每人次",
+        "departmentname": "經濟部中小企業處",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "烤番薯",
+        "coe": "0.656",
+        "unit": "盒",
+        "departmentname": "台南市環境保護局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "番薯冰烤兩吃",
+        "coe": "0.0955",
+        "unit": "包",
+        "departmentname": "台南市環境保護局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "住宿服務（單\/兩人房）",
+        "coe": "75",
+        "unit": "每房-每天",
+        "departmentname": "臺南市環境保護局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "住宿服務（四人房）",
+        "coe": "90",
+        "unit": "每房-每天",
+        "departmentname": "臺南市環境保護局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "雞蛋",
+        "coe": "0.162",
+        "unit": "顆",
+        "departmentname": "臺南市環境保護局",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "廢（污）水處理服務（中部科學工業園區台中園區污水處理廠）",
+        "coe": "0.45",
+        "unit": "立方公尺(m3)",
+        "departmentname": "山林水環境工程股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "廢（污）水處理服務（高雄市楠梓污水處理廠）",
+        "coe": "0.4",
+        "unit": "立方公尺(m3)",
+        "departmentname": "山林水環境工程股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "廢（污）水處理服務（中部科學工業園區管理局-虎尾園區）",
+        "coe": "1.7",
+        "unit": "立方公尺(m3)",
+        "departmentname": "中欣行股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "原生木漿影印紙",
+        "coe": "3.6",
+        "unit": "包",
+        "departmentname": "中華紙漿股份有限公司花蓮廠",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "高速鐵路運輸服務",
+        "coe": "0.034",
+        "unit": "延人公里(pkm)",
+        "departmentname": "環境部、台灣高速鐵路股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油（於鐵路運輸與非道路運輸移動源使用，2016）",
+        "coe": "3.61",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "綠茶（250ml，鋁箔包裝）",
+        "coe": "0.11",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "綠茶（300ml，鋁箔包裝）",
+        "coe": "0.12",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "奶茶(250ml，鋁箔包裝)",
+        "coe": "0.13",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "奶茶(300ml，鋁箔包裝)",
+        "coe": "0.14",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油（於水路運輸移動源使用，2016）",
+        "coe": "3.37",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "奶茶(375ml，鋁箔包裝)",
+        "coe": "0.2",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "紅茶(250ml，鋁箔包裝)",
+        "coe": "0.1",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "紅茶(300ml，鋁箔包裝)",
+        "coe": "0.12",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "紅茶(375ml，鋁箔包裝)",
+        "coe": "0.16",
+        "unit": "包",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "保鮮盒",
+        "coe": "5.16",
+        "unit": "個",
+        "departmentname": "寀呈股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "高粱酒(50％，600ml)",
+        "coe": "5.5",
+        "unit": "瓶",
+        "departmentname": "馬祖酒廠實業股份有限公司南竿廠",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油（於捕撈移動源使用，2016）",
+        "coe": "3.36",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "廢（污）水處理服務（臺南市政府水利局柳營區水資源回收中心）",
+        "coe": "0.5",
+        "unit": "立方公尺(m3)",
+        "departmentname": "惠民實業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "瓶裝水（600ml，PET包裝）",
+        "coe": "0.153",
+        "unit": "瓶",
+        "departmentname": "味丹企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "瓶裝水(1500ml，PET包裝)",
+        "coe": "0.25",
+        "unit": "瓶",
+        "departmentname": "味丹企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "濃硫酸",
+        "coe": "0.354",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "瓶裝水(2000ml，PET包裝)",
+        "coe": "0.368",
+        "unit": "瓶",
+        "departmentname": "味丹企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "2.6mm裸銅線（SCR銅）",
+        "coe": "4.28",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "豆漿(450ml，鋁箔包裝)",
+        "coe": "0.38",
+        "unit": "盒",
+        "departmentname": "統一企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "3.03mm裸銅線（SCR銅）",
+        "coe": "4.16",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "8mm裸銅線（SCR銅）",
+        "coe": "4.13",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "8mm裸銅線（無氧銅）",
+        "coe": "5.13",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "封裝銅銲線",
+        "coe": "0.0171",
+        "unit": "公尺(m)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "聚氯乙烯(PVC)合成皮（塗佈製程）",
+        "coe": "5.71",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "聚氯乙烯(PVC)合成皮（壓延製程，使用基布）",
+        "coe": "4.19",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "聚氯乙烯(PVC)合成皮（壓延製程，未使用基布）",
+        "coe": "3.37",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "綠茶洗髮精（1000ml）",
+        "coe": "27",
+        "unit": "瓶",
+        "departmentname": "歐萊德國際股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "過硫酸銨",
+        "coe": "6.58",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "過硫酸鈉",
+        "coe": "14.1",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "橄欖洗髮精（1000ml）",
+        "coe": "30",
+        "unit": "瓶",
+        "departmentname": "昇宏國際企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "洗髮精（1000ml）",
+        "coe": "28.5",
+        "unit": "瓶",
+        "departmentname": "歐萊德國際股份有限公司、昇宏國際企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "無磷無氧銅塊",
+        "coe": "4.77",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "道林紙",
+        "coe": "1.46",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "洗衣粉",
+        "coe": "3.8",
+        "unit": "盒",
+        "departmentname": "德大生技有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "洗碗精（1000ml）",
+        "coe": "2",
+        "unit": "瓶",
+        "departmentname": "德大生技有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "鏡面無縫紙管",
+        "coe": "2.39",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部，聚冠紙器企業股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "工業用水（韓國，1998）",
+        "coe": "0.000102",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "飲用水（韓國，2002）",
+        "coe": "0.000332",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油（未燃燒，韓國，2000）",
+        "coe": "0.0682",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "煤（未燃燒，韓國，1999）",
+        "coe": "0.48",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "重質燃料油（未燃燒，韓國，1998）",
+        "coe": "0.325",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "汽油（未燃燒，韓國，2000）",
+        "coe": "0.0832",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "液化天然氣（未燃燒，韓國，2006）",
+        "coe": "0.595",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "液化石油氣（未燃燒，韓國，2006）",
+        "coe": "0.394",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "液化石油氣（未燃燒，泰國，2008）",
+        "coe": "0.412",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "汽油（未燃燒，泰國，2005）",
+        "coe": "0.706",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "燃料油（未燃燒，泰國，2005）",
+        "coe": "0.305",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "柴油（未燃燒，泰國，2005）",
+        "coe": "0.328",
+        "unit": "公斤(kg)",
+        "departmentname": "－－－",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "廢棄物焚化處理服務(苗栗縣垃圾焚化廠)",
+        "coe": "340",
+        "unit": "公噸(mt)",
+        "departmentname": "環境部、裕鼎股份有限公司",
+        "announcementyear": "2018"
+    },
+    {
+        "name": "電力碳足跡(2017)",
+        "coe": "0.694",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2017)",
+        "coe": "3.96",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "車用汽油(未燃燒，2017)",
+        "coe": "0.658",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "柴油(未燃燒，2017)",
+        "coe": "0.735",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "柴油(於固定源使用，2017)",
+        "coe": "3.35",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "柴油(於公路運輸移動源使用，2017)",
+        "coe": "3.38",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "柴油（於鐵路運輸與非道路運輸移動源使用，2017）",
+        "coe": "3.61",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "柴油（於水路運輸移動源使用，2017）",
+        "coe": "3.37",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "柴油（於捕撈移動源使用，2017）",
+        "coe": "3.36",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "強化玻璃",
+        "coe": "1.75",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "壓克力樹脂",
+        "coe": "2.29",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "PLA蛋盤(10盒裝)",
+        "coe": "4.78",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "寶特瓶瓶身",
+        "coe": "4.32",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "PE瓶蓋",
+        "coe": "15",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "表面白紙板",
+        "coe": "0.32",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "紙碗",
+        "coe": "1.91",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "紙盤",
+        "coe": "1.89",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(3”\/4)",
+        "coe": "0.0875",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(1”\/2)",
+        "coe": "0.0834",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(3”\/4)",
+        "coe": "0.0808",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "粗級配瀝青混凝土(1”)",
+        "coe": "0.0894",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "粗級配瀝青混凝土(1”)",
+        "coe": "0.0837",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "卜特蘭水泥(Ⅱ型)",
+        "coe": "0.964",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "控制性低強度回填材料(CLSM)",
+        "coe": "157",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "輕質骨材混凝土(175kgf\/cm2)",
+        "coe": "317",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(140kgf\/cm2)",
+        "coe": "217",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(140kgf\/cm2)",
+        "coe": "256",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(210kgf\/cm2)",
+        "coe": "256",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(210kgf\/cm2)",
+        "coe": "310",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "水中混凝土(210kgf\/cm2)",
+        "coe": "320",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "水中混凝土(210kgf\/cm2)",
+        "coe": "359",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(245kgf\/cm2)",
+        "coe": "282",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(245kgf\/cm2)",
+        "coe": "341",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "自充填混凝土(280kgf\/cm2)",
+        "coe": "335",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "自充填混凝土(280kgf\/cm2)",
+        "coe": "353",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(280kgf\/cm2)",
+        "coe": "306",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(280kgf\/cm2)",
+        "coe": "355",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "自充填混凝土(350kgf\/cm2)",
+        "coe": "367",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "自充填混凝土(350kgf\/cm2)",
+        "coe": "393",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "自充填混凝土(350kgf\/cm2)",
+        "coe": "430",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "早強預拌混凝土(420kgf\/cm2，飛灰爐石粉替代率22％)",
+        "coe": "464",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預拌混凝土(420kgf\/cm2)",
+        "coe": "483",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2017)",
+        "coe": "2.93",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "無收縮混凝土(420kgf\/cm2)",
+        "coe": "493",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "粗級配瀝青混凝土(混和料比例0％)",
+        "coe": "0.0777",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "粗級配瀝青混凝土(混和料比例1.9％)",
+        "coe": "0.0968",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "粗級配瀝青混凝土(混和料比例2.4％)",
+        "coe": "0.101",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(混和料比例0％)",
+        "coe": "0.077",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(混和料比例1.4％)",
+        "coe": "0.0924",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(混和料比例1.9％)",
+        "coe": "0.0968",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "多孔隙瀝青混凝土",
+        "coe": "0.134",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "預力鋼腱",
+        "coe": "2.85",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "單結晶矽電池太陽光電模組(60片6吋)",
+        "coe": "418",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "多結晶矽電池太陽光電模組(60片6吋)",
+        "coe": "320",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2017)",
+        "coe": "3.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "天然氣(於固定源使用，2017)",
+        "coe": "2.6",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2017)",
+        "coe": "2.25",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "煤油使用(2017)",
+        "coe": "2.98",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "潤滑油(未燃燒，2017)",
+        "coe": "1.05",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "臺灣自來水(2017)",
+        "coe": "0.299",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "ABS再生塑膠粒",
+        "coe": "0.57",
+        "unit": "公斤(kg)",
+        "departmentname": "宏盛環保科技股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "HIPS再生塑膠粒",
+        "coe": "0.531",
+        "unit": "公斤(kg)",
+        "departmentname": "宏盛環保科技股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "PP再生塑膠粒",
+        "coe": "0.524",
+        "unit": "公斤(kg)",
+        "departmentname": "宏盛環保科技股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "芝麻醬",
+        "coe": "1.96",
+        "unit": "公斤(kg)",
+        "departmentname": "社團法人臺灣環境管理協會",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "食用烤酥油",
+        "coe": "3.75",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "瑪琪琳",
+        "coe": "3.07",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "凝乳塊(未發酵)",
+        "coe": "12.4",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "蔭油膏",
+        "coe": "1.01",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "蔭豆豉",
+        "coe": "1.57",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "密級配瀝青混凝土(1”\/2)",
+        "coe": "0.0936",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局蘇花公路改善工程處",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "棉花(未粗疏或精梳)",
+        "coe": "1.47",
+        "unit": "公斤(kg)",
+        "departmentname": "財團法人工業技術研究院",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "住宿服務（二人房）",
+        "coe": "30",
+        "unit": "每房-每天",
+        "departmentname": "環境部、國泰商旅股份有限公司民生分公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "洗髮精（1000ml）",
+        "coe": "21",
+        "unit": "瓶",
+        "departmentname": "歐萊德國際股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "洗手乳（1000ml）",
+        "coe": "1.6",
+        "unit": "瓶",
+        "departmentname": "歐萊德國際股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "煙燻素火腿",
+        "coe": "1.9",
+        "unit": "條",
+        "departmentname": "儒慧實業有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "猴頭菇素火腿",
+        "coe": "2",
+        "unit": "條",
+        "departmentname": "儒慧實業有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "素火腿",
+        "coe": "1.8",
+        "unit": "條",
+        "departmentname": "儒慧實業有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "良質米（高雄139號品種）",
+        "coe": "6",
+        "unit": "包",
+        "departmentname": "東里碾米工廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "百貨零售服務",
+        "coe": "0.035",
+        "unit": "每平方米‧每小時",
+        "departmentname": "太平洋崇光百貨股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "茶葉蛋",
+        "coe": "2.4",
+        "unit": "包",
+        "departmentname": "金嘉隆企業有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "鮮蛋",
+        "coe": "0.105",
+        "unit": "顆",
+        "departmentname": "石安牧場",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（0.6L）",
+        "coe": "1",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（1L）",
+        "coe": "1.7",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（2L）",
+        "coe": "3.4",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（2.6L）",
+        "coe": "4.5",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（3L）",
+        "coe": "5",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（18L）",
+        "coe": "30",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "大豆沙拉油（19.56L）",
+        "coe": "32",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "烤酥油（2L）",
+        "coe": "3.4",
+        "unit": "瓶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "烤酥油（18L）",
+        "coe": "30",
+        "unit": "桶",
+        "departmentname": "環境部、台灣糖業股份有限公司小港廠",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "瓶裝水（330ml，PET包裝）",
+        "coe": "0.15",
+        "unit": "瓶",
+        "departmentname": "名牌食品股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "瓶裝水（600ml，PET包裝）",
+        "coe": "0.14",
+        "unit": "瓶",
+        "departmentname": "名牌食品股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "瓶裝水（1500ml，PET包裝）",
+        "coe": "0.27",
+        "unit": "瓶",
+        "departmentname": "名牌食品股份有限公司",
+        "announcementyear": "2019"
+    },
+    {
+        "name": "電力碳足跡(2018)",
+        "coe": "0.642",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "電力間接碳足跡(2018)",
+        "coe": "0.109",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2018)",
+        "coe": "3.94",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "燃料油未燃燒(蒸餘油\/重油未燃燒，2018)",
+        "coe": "0.822",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "柴油(未燃燒，2018)",
+        "coe": "0.724",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "柴油(於固定源使用，2018)",
+        "coe": "3.34",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "柴油(於公路運輸移動源使用，2018)",
+        "coe": "3.37",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "柴油（於鐵路運輸與非道路運輸移動源使用，2018）",
+        "coe": "3.6",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "柴油（於水路運輸移動源使用，2018）",
+        "coe": "3.36",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "柴油（於捕撈移動源使用，2018）",
+        "coe": "3.35",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "車用汽油(未燃燒，2018)",
+        "coe": "0.65",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2018)",
+        "coe": "2.92",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2018)",
+        "coe": "3.01",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "天然氣(於固定源使用，2018)",
+        "coe": "2.58",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "天然氣(未燃燒，2018)",
+        "coe": "0.469",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2018)",
+        "coe": "2.25",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "液化石油氣(未燃燒，2018)",
+        "coe": "0.491",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "煤油使用(2018)",
+        "coe": "2.97",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "煤油(未燃燒，2018)",
+        "coe": "0.403",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "潤滑油(未燃燒，2018)",
+        "coe": "1.02",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "線性低密度聚乙烯(LLDPE)",
+        "coe": "2.02",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "甲基丙烯酸甲酯",
+        "coe": "3.99",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "有害事業廢棄物固化處理服務",
+        "coe": "130",
+        "unit": "公噸(mt)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "廢溶劑蒸餾回收處理服務",
+        "coe": "0.212",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "耐衝擊聚苯乙烯(HIPS)",
+        "coe": "2.55",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "氯氣",
+        "coe": "1.36",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "發泡聚苯乙烯",
+        "coe": "2.31",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "聚丙烯腈棉",
+        "coe": "4.36",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "聚酯粒",
+        "coe": "4.09",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "聚酯棉",
+        "coe": "4.45",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "精華霜",
+        "coe": "0.55",
+        "unit": "罐",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "海苔",
+        "coe": "0.075",
+        "unit": "包",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "廢棄物焚化處理服務(岡山垃圾焚化廠)",
+        "coe": "360",
+        "unit": "公噸(mt)",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "溫度米(台梗16號)",
+        "coe": "3",
+        "unit": "包",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "麥芽調味乳",
+        "coe": "3.31",
+        "unit": "公升(L)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "優格",
+        "coe": "4.33",
+        "unit": "公斤(kg)",
+        "departmentname": "衛生福利部食品藥物管理署",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "單結晶矽電池太陽光電模組(72片6吋)",
+        "coe": "465",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "多結晶矽電池太陽光電模組(72片6吋)",
+        "coe": "336",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "高壓透水混凝土地磚(20cm*10cm*6cm)",
+        "coe": "0.53",
+        "unit": "片",
+        "departmentname": "健源有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "高壓透水混凝土地磚(20cm*20cm*6cm)",
+        "coe": "1.06",
+        "unit": "片",
+        "departmentname": "健源有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "高壓透水混凝土地磚(30cm*30cm*6cm)",
+        "coe": "2.38",
+        "unit": "片",
+        "departmentname": "健源有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "再生高壓透水混凝土地磚(20cm*10cm*6cm)",
+        "coe": "0.59",
+        "unit": "片",
+        "departmentname": "健源有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "再生高壓透水混凝土地磚(20cm*20cm*6cm)",
+        "coe": "1.18",
+        "unit": "片",
+        "departmentname": "健源有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "再生高壓透水混凝土地磚(30cm*30cm*6cm)",
+        "coe": "2.65",
+        "unit": "片",
+        "departmentname": "健源有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "包裝飲用水(600ml，PET包裝)",
+        "coe": "0.121",
+        "unit": "瓶",
+        "departmentname": "泰山企業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "包裝飲用水(1460ml，PET包裝)",
+        "coe": "0.253",
+        "unit": "瓶",
+        "departmentname": "泰山企業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "黑咖啡",
+        "coe": "0.304",
+        "unit": "杯",
+        "departmentname": "環境部",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "卜特蘭水泥(Ⅱ型)",
+        "coe": "0.981",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "鋼筋混凝土用鋼筋(SD280W)",
+        "coe": "0.835",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "鋼筋混凝土用鋼筋(SD420W)",
+        "coe": "0.834",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預拌混凝土(140 kgf\/cm2)",
+        "coe": "200",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預拌混凝土(175 kgf\/cm2)",
+        "coe": "224",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預拌混凝土(210 kgf\/cm2)",
+        "coe": "238",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預拌水中混凝土(210 kgf\/cm2)",
+        "coe": "346",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預拌混凝土(245 kgf\/cm2)",
+        "coe": "252",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預拌混凝土(280 kgf\/cm2)",
+        "coe": "338",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "自充填預拌混凝土(350 kgf\/cm2)",
+        "coe": "375",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "預力梁用預拌混凝土(350 kgf\/cm2)",
+        "coe": "407",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "早強預拌混凝土(420 kgf\/cm2)",
+        "coe": "370",
+        "unit": "立方公尺(m3)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "密級配瀝青混凝土(混和料比例2.9％)",
+        "coe": "0.129",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "粗級配瀝青混凝土(混和料比例2.9％)",
+        "coe": "0.129",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "多孔隙瀝青混凝土(混和料比例3.3％)",
+        "coe": "0.134",
+        "unit": "公斤(kg)",
+        "departmentname": "公路總局西部濱海公路南區臨時工程處",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "郵局郵件遞送服務",
+        "coe": "0.205",
+        "unit": "公克(g)",
+        "departmentname": "中華郵政股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "廢(污)水處理服務(羅東地區水資源回收中心)",
+        "coe": "0.34",
+        "unit": "立方公尺(m3)",
+        "departmentname": "山林水環境工程股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "廢(污)水處理服務(科技部新竹科學工業園區管理局竹南園區污水處理廠)",
+        "coe": "0.553",
+        "unit": "立方公尺(m3)",
+        "departmentname": "中欣行股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "廢(污)水處理服務(科技部南部科學園區高雄園區污水處理廠)",
+        "coe": "0.3",
+        "unit": "立方公尺(m3)",
+        "departmentname": "惠民實業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "環保抽取式擦手紙巾",
+        "coe": "0.739",
+        "unit": "包",
+        "departmentname": "正隆股份有限公司竹北廠",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "抽取式衛生紙",
+        "coe": "0.402",
+        "unit": "包",
+        "departmentname": "正隆股份有限公司竹北廠",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "環保抽取式衛生紙",
+        "coe": "0.279",
+        "unit": "包",
+        "departmentname": "正隆股份有限公司竹北廠",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "信用卡",
+        "coe": "0.873",
+        "unit": "張",
+        "departmentname": "玉山商業銀行股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "OPP膠帶(0.04mm*48mm*35M)",
+        "coe": "0.52",
+        "unit": "卷",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "PVC膠帶(0.17mm*48mm*12M)",
+        "coe": "0.78",
+        "unit": "卷",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "OPP膠帶(0.043mm*48mm*80M)",
+        "coe": "0.97",
+        "unit": "卷",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "PVC膠帶(0.13mm*18mm*16M)",
+        "coe": "0.28",
+        "unit": "卷",
+        "departmentname": "地球綜合工業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "人身保險服務",
+        "coe": "8.05",
+        "unit": "件",
+        "departmentname": "南山人壽保險股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "洗潔精(965ml)",
+        "coe": "1.32",
+        "unit": "瓶",
+        "departmentname": "耐斯企業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "洗潔精(4830ml)",
+        "coe": "5.94",
+        "unit": "瓶",
+        "departmentname": "耐斯企業股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "銀行臨櫃服務",
+        "coe": "1.41",
+        "unit": "每服務人次",
+        "departmentname": "第一商業銀行股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "鳳梨酥",
+        "coe": "0.194",
+        "unit": "顆",
+        "departmentname": "舊振南食品股份有限公司",
+        "announcementyear": "2020"
+    },
+    {
+        "name": "電力碳足跡(2019)",
+        "coe": "0.601",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "電力間接碳足跡 (2019)",
+        "coe": "0.0923",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "液化石油氣(未燃燒，2019)",
+        "coe": "0.467",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "柴油（於水路運輸移動源使用，2019）",
+        "coe": "3.36",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "煤油使用(2019)",
+        "coe": "2.98",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2019)",
+        "coe": "3.95",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "煤油(未燃燒，2019)",
+        "coe": "0.413",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "柴油（於捕撈移動源使用，2019）",
+        "coe": "3.36",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "燃料油未燃燒(蒸餘油\/重油未燃燒，2019)",
+        "coe": "0.832",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "柴油(未燃燒，2019)",
+        "coe": "0.733",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "車用汽油(未燃燒，2019)",
+        "coe": "0.66",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "柴油(於固定源使用，2019)",
+        "coe": "3.35",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2019)",
+        "coe": "2.93",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "潤滑油(未燃燒，2019)",
+        "coe": "1.02",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2019)",
+        "coe": "3.02",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "天然氣(於固定源使用，2019)",
+        "coe": "2.56",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "柴油(於公路運輸移動源使用，2019)",
+        "coe": "3.38",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "聚氯乙烯",
+        "coe": "3.02",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "天然氣(未燃燒，2019)",
+        "coe": "0.451",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "柴油（於鐵路運輸與非道路運輸移動源使用，2019）",
+        "coe": "3.61",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "聚醯胺絲",
+        "coe": "9.31",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2019)",
+        "coe": "2.22",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "精鹽（食用鹽）",
+        "coe": "0.0688",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "氫氧化鈣(熟石灰)",
+        "coe": "1.59",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2021"
+    },
+    {
+        "name": "電力碳足跡(2020)",
+        "coe": "0.59",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "電力間接碳足跡(2020)",
+        "coe": "0.0882",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2020)",
+        "coe": "3.95",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "燃料油未燃燒(蒸餘油\/重油未燃燒，2020)",
+        "coe": "0.829",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "柴油(未燃燒，2020)",
+        "coe": "0.73",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "柴油(於固定源使用，2020)",
+        "coe": "3.34",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "柴油(於公路運輸移動源使用，2020)",
+        "coe": "3.38",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "柴油（於鐵路運輸與非道路運輸移動源使用，2020）",
+        "coe": "3.61",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "柴油（於水路運輸移動源使用，2020）",
+        "coe": "3.36",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "柴油（於捕撈移動源使用，2020）",
+        "coe": "3.35",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "車用汽油(未燃燒，2020)",
+        "coe": "0.657",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2020)",
+        "coe": "2.93",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2020)",
+        "coe": "3.01",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "天然氣(於固定源使用，2020)",
+        "coe": "2.63",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "天然氣(未燃燒，2020)",
+        "coe": "0.516",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2020)",
+        "coe": "2.22",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "液化石油氣(未燃燒，2020)",
+        "coe": "0.467",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "煤油使用(2020)",
+        "coe": "2.98",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "煤油(未燃燒，2020)",
+        "coe": "0.411",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "潤滑油(未燃燒，2020)",
+        "coe": "1.09",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氫氧化鈉，45％",
+        "coe": "0.675",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氫氧化鈉，32％",
+        "coe": "0.667",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氮氣，99.9999％",
+        "coe": "0.123",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "玻璃容器",
+        "coe": "1.15",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "單結晶矽電池(6吋)",
+        "coe": "5.9",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "單結晶矽電池BIPV鋼板太陽光電模組(24片6吋)",
+        "coe": "182",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "特製液糖(20公噸)",
+        "coe": "23800",
+        "unit": "公噸(mt)",
+        "departmentname": "台灣糖業股份有限公司小港廠",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "轉化液糖(20公噸)",
+        "coe": "23800",
+        "unit": "公噸(mt)",
+        "departmentname": "台灣糖業股份有限公司小港廠",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "精製二砂(25公斤)",
+        "coe": "28.9",
+        "unit": "公斤(kg)",
+        "departmentname": "台灣糖業股份有限公司小港廠",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "精製特砂(25公斤)",
+        "coe": "28.9",
+        "unit": "公斤(kg)",
+        "departmentname": "台灣糖業股份有限公司小港廠",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "精製特砂(50公斤)",
+        "coe": "57.7",
+        "unit": "公斤(kg)",
+        "departmentname": "台灣糖業股份有限公司小港廠",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "精製細砂(25公斤)",
+        "coe": "28.9",
+        "unit": "公斤(kg)",
+        "departmentname": "台灣糖業股份有限公司小港廠",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "預拌混凝土(280kgf\/cm2，飛灰爐石替代率30％)",
+        "coe": "301",
+        "unit": "立方公尺(m3)",
+        "departmentname": "亞東預拌混凝土股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "預拌混凝土(280kgf\/cm2，飛灰爐石替代率50％)",
+        "coe": "214",
+        "unit": "立方公尺(m3)",
+        "departmentname": "亞東預拌混凝土股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "預拌混凝土(350kgf\/cm2，飛灰爐石替代率30％)",
+        "coe": "341",
+        "unit": "立方公尺(m3)",
+        "departmentname": "亞東預拌混凝土股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "預拌混凝土(350kgf\/cm2，飛灰爐石替代率50％)",
+        "coe": "244",
+        "unit": "立方公尺(m3)",
+        "departmentname": "亞東預拌混凝土股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "混凝土及水泥砂漿用水淬高爐爐碴粉(散裝，不含轉運)",
+        "coe": "58.9",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "混凝土及水泥砂漿用水淬高爐爐碴粉(散裝，含轉運)",
+        "coe": "61.3",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "混凝土及水泥砂漿用水淬高爐爐碴粉(太空袋裝)",
+        "coe": "59.3",
+        "unit": "袋",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "飛灰爐石粉(散裝)",
+        "coe": "46.8",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "卜特蘭高爐爐碴水泥(散裝)",
+        "coe": "604",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "卜特蘭高爐爐碴水泥(太空袋裝)",
+        "coe": "573",
+        "unit": "袋",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "新型高爐水泥(50公斤，紙袋裝)",
+        "coe": "25.6",
+        "unit": "包",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "地質改良處理劑(散裝)",
+        "coe": "359",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "地質改良處理劑(太空袋裝)",
+        "coe": "363",
+        "unit": "袋",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "地質改良處理劑(50公斤，紙袋裝)",
+        "coe": "18.2",
+        "unit": "包",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氣冷轉爐石級配料(散裝)",
+        "coe": "5.77",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氣冷高爐石級配料(散裝)",
+        "coe": "4.98",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "瀝青鋪面用粒料(散裝)",
+        "coe": "9.56",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "轉爐石細料(散裝)",
+        "coe": "14.8",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "鐵渣(煤灰礦泥拌合料，散裝)",
+        "coe": "4.61",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "礦物細料(石灰質細料，散裝)",
+        "coe": "32.4",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "鋁錐(太空袋裝)",
+        "coe": "724",
+        "unit": "袋",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "鋁錠(散裝)",
+        "coe": "189",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "人造螢石(太空袋裝)",
+        "coe": "584",
+        "unit": "袋",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氟化鈣污泥處理服務(物理處理)",
+        "coe": "336",
+        "unit": "公噸(mt)",
+        "departmentname": "中聯資源股份有限公司",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "團體膳食服務(不區分供應的對象) (2018)",
+        "coe": "3.97",
+        "unit": "每人每餐",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "團體膳食服務(不區分供應的對象) (2019)",
+        "coe": "1.29",
+        "unit": "每人每餐",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "PET隔熱膜(2017)",
+        "coe": "17.1",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "PET隔熱膜(2019)",
+        "coe": "9.76",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "甘蔗吸管",
+        "coe": "0.00478",
+        "unit": "支",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "太陽能LED燈具",
+        "coe": "447",
+        "unit": "盞",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "聚對苯二甲酸乙二酯(PET)",
+        "coe": "2.74",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "對苯二甲酸(PTA)",
+        "coe": "1.87",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "氯乙烯單體(VCM)",
+        "coe": "2.26",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "通用級聚苯乙烯(GPPS)",
+        "coe": "2.74",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "乙二醇",
+        "coe": "1.81",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "營業大貨車(柴油)",
+        "coe": "0.131",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "營業小貨車(柴油)",
+        "coe": "0.587",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "營業小貨車(汽油)",
+        "coe": "0.683",
+        "unit": "延噸公里(tkm)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "國際海運貨物運輸服務(本國籍貨櫃船，歐美長程航線)",
+        "coe": "0.0649",
+        "unit": "每個20呎標準貨櫃-每公里(TEU-km)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "臺灣自來水(2020)",
+        "coe": "0.233",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "臺北自來水(2020)",
+        "coe": "0.0948",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2022"
+    },
+    {
+        "name": "電力碳足跡(2021)",
+        "coe": "0.606",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "電力間接碳足跡(2021)",
+        "coe": "0.0973",
+        "unit": "度(kwh)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "燃料油使用(蒸餘油\/重油使用，2021)",
+        "coe": "3.88",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "燃料油未燃燒(蒸餘油\/重油未燃燒，2021)",
+        "coe": "0.764",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "柴油(未燃燒，2021)",
+        "coe": "0.673",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "柴油(於固定源使用，2021)",
+        "coe": "3.29",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "柴油(於公路運輸移動源使用，2021)",
+        "coe": "3.32",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "柴油(於鐵路運輸與非道路運輸移動源使用，2021)",
+        "coe": "3.56",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "柴油(於水路運輸移動源使用，2021)",
+        "coe": "3.3",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "柴油(於捕撈移動源使用，2021)",
+        "coe": "3.29",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "車用汽油(未燃燒，2021)",
+        "coe": "0.604",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "車用汽油(於固定源使用，2021)",
+        "coe": "2.88",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "車用汽油(於移動源使用，2021)",
+        "coe": "2.92",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "天然氣(未燃燒，2021)",
+        "coe": "0.519",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "天然氣(於固定源使用，2021)",
+        "coe": "2.63",
+        "unit": "立方公尺(m3)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "液化石油氣(於固定源使用，2021)",
+        "coe": "2.21",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "液化石油氣(未燃燒，2021)",
+        "coe": "0.453",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "煤油使用(2021)",
+        "coe": "2.91",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "煤油(未燃燒，2021)",
+        "coe": "0.353",
+        "unit": "公升(L)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "潤滑油(未燃燒，2021)",
+        "coe": "1.09",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "太陽光電電場發電",
+        "coe": "0.00961",
+        "unit": "度(kwh)",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "單結晶矽電池太陽光電模組(60片6吋)-半切割型(120子片)",
+        "coe": "377",
+        "unit": "片",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "焊帶(太陽光電模組材料)",
+        "coe": "12",
+        "unit": "公斤(kg)",
+        "departmentname": "經濟部標準檢驗局",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "硫酸酯鹽界面活性劑",
+        "coe": "1.06",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "AOS界面活性劑",
+        "coe": "1.4",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "偏矽酸鈉",
+        "coe": "0.887",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "濃硫酸",
+        "coe": "0.289",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "雙層瓦楞紙箱(AB楞，釘箱)",
+        "coe": "1.69",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "雙層瓦楞紙箱(AB楞，貼箱)",
+        "coe": "1.33",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "雙層瓦楞紙箱(AB楞，加權平均)",
+        "coe": "1.46",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "單層瓦楞紙箱(A楞，釘箱)",
+        "coe": "1.21",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "單層瓦楞紙箱(A楞，貼箱)",
+        "coe": "1.11",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "單層瓦楞紙箱(B楞，釘箱)",
+        "coe": "0.895",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "單層瓦楞紙箱(B楞，貼箱)",
+        "coe": "1.03",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "單層瓦楞紙箱(加權平均)",
+        "coe": "1.1",
+        "unit": "平方公尺(m2)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "瓦楞紙板(AB楞)",
+        "coe": "1.3",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "瓦楞紙板(A楞)",
+        "coe": "1.06",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "瓦楞紙板(B楞)",
+        "coe": "0.813",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "牛皮紙",
+        "coe": "1.22",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "瓦楞芯紙",
+        "coe": "0.988",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "裱面紙板",
+        "coe": "1.6",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "角紙",
+        "coe": "1.02",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "紙棧板",
+        "coe": "1.01",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "聚丙烯(PP)",
+        "coe": "1.95",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "高密度聚乙烯(HDPE)",
+        "coe": "2.21",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "標籤紙(PET)",
+        "coe": "0.0135",
+        "unit": "張",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "苯乙烯-乙烯\/丁烯-苯乙烯熱塑性彈性體",
+        "coe": "4.74",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    },
+    {
+        "name": "伸縮膜(LLDPE)",
+        "coe": "3.69",
+        "unit": "公斤(kg)",
+        "departmentname": "環境部",
+        "announcementyear": "2023"
+    }
+]

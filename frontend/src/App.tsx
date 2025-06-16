@@ -7,6 +7,9 @@ import { useNavigate } from "react-router-dom";
 import { ethers } from "ethers";
 import CarbonRecorderABI from "./CarbonRecorderABI.json";
 import contractInfo from "./contractAddress.json";
+import emissionFactors from "./assets/emissionFactors_with_defaults.json";
+
+import { Autocomplete, TextField } from "@mui/material";
 
 declare global {
   interface Window {
@@ -21,10 +24,13 @@ export default function ProductLifecyclePage() {
   const [openSections, setOpenSections] = useState<Record<string, boolean>>({});
   const [modalStep, setModalStep] = useState<string | null>(null);
   const [modalStage, setModalStage] = useState<string | null>(null);
-  const [amount, setAmount] = useState("");
   const [records, setRecords] = useState<any[]>([]);
   const [contract, setContract] = useState<any>(null);
   const [account, setAccount] = useState("");
+  const [selectedMaterial, setSelectedMaterial] = useState<any>(null);
+  const [inputAmount, setInputAmount] = useState<number>(0);
+
+  const emission = selectedMaterial ? selectedMaterial.coefficient * inputAmount : 0;
 
   // 載入智能合約，初始化合約與歷史紀錄
   async function loadContract() {
@@ -85,8 +91,8 @@ export default function ProductLifecyclePage() {
   }
 
   async function submitRecord() {
-    // 檢查contract, description, amount是否非null
-    const parsedAmount = parseInt(amount);
+    // 檢查contract, description, emission是否非null
+    const finalEmission = Math.round(emission);
     if (!contract) {
       alert("合約尚未載入")
       return;
@@ -95,18 +101,18 @@ export default function ProductLifecyclePage() {
       alert("請選擇一個階段");
       return;
     }
-    if (isNaN(parsedAmount) || parsedAmount <= 0) {
-      alert("請輸入有效的碳排量（正整數）");
+    if (!selectedMaterial || isNaN(inputAmount) || inputAmount <= 0) {
+      alert("請選擇耗材並輸入用量");
       return;
     }
     try {
-      const tx = await contract.addRecord(modalStep, parsedAmount);
-      // const tx = await contract.addRecord("test", 123);
+      const tx = await contract.addRecord(modalStep, finalEmission);
       await tx.wait();
       await new Promise((resolve) => setTimeout(resolve, 1000));
       loadRecords(contract);
       setModalStep(null);
-      setAmount("");
+      setInputAmount(0);
+      setSelectedMaterial(null);
     } catch (e) {
       console.error("Add record error:", e);
     }
@@ -124,6 +130,8 @@ export default function ProductLifecyclePage() {
     { name: "使用", steps: ["消費者使用"], extras: ["能源資源"] },
     { name: "廢棄處理", steps: ["回收", "焚化", "掩埋"], extras: ["能源資源"] },
   ];
+
+  const matchedOptions = emissionFactors.filter(f => f.category === modalStep);
 
   return (
     <div className="PageWrapper">
@@ -154,12 +162,25 @@ export default function ProductLifecyclePage() {
         <h3>新增碳排放紀錄</h3>
         <h5 style={{ marginBottom: "2px", marginTop: 0}}>階段：{modalStage}</h5>
         <h5 style={{ marginTop: 0 }}>類別：{modalStep}</h5>
+
+        <Autocomplete
+          options={matchedOptions}
+          getOptionLabel={(option) => option.name}
+          onChange={(e, val) => setSelectedMaterial(val)}
+          renderInput={(params) => <TextField {...params} label="選擇耗材" />}
+        />
+
         <input className="InputAmount"
           type="number"
-          value={amount}
-          onChange={e => setAmount(e.target.value)}
-          placeholder="輸入碳排量 (噸)"
+          value={inputAmount}
+          onChange={e => setInputAmount(Number(e.target.value))}
+          placeholder="輸入用量"
         />
+
+        <p style={{ fontSize: '14px', color: '#444' }}>
+          預估碳排量：{emission.toFixed(2)} kg CO₂e
+        </p>
+
         <div className="ButtonRow">
           <button className="SubmitButton" onClick={submitRecord}>確認提交</button>
           <button className="CancelButton" onClick={() => setModalStep(null)}>取消</button>
