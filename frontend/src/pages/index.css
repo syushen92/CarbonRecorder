@@ -30,6 +30,18 @@
   border: rgb(167, 194, 105) solid 1px;
 }
 
+.SaveButton {
+  margin-top: 16;
+  padding: 8px 16px;
+  background: #aed0f0;
+  color: #3182ce;
+  font-size: 12px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer
+}
+
 .CancelButton {
   height: 30px;
   background-color: rgb(225, 174, 155);
@@ -62,7 +74,7 @@
   background: #f9f9f9;
 }
 .InputAmount:focus {
-    background: #fff;
+  background: #fff;
 }
 
 .PageWrapper {
@@ -78,4 +90,10 @@
   max-width: 480px;
   margin: 0 auto;
   padding: 0 16px;
+}
+
+.Section {
+  padding: 0;
+  font-size: 16px;
+  color: #555; 
 }

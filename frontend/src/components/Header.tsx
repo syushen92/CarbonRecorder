@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import { useNavigate } from 'react-router-dom';
-import { useTranslation } from 'react-i18next';
-import i18n from '../i18n';
 
 const HEADER_HEIGHT = 36;
 
@@ -61,15 +59,11 @@ const Avatar = styled.img`
 
 type HeaderProps = {
   showBackButton?: boolean;
+  title?: string;
 };
 
-export default function Header({ showBackButton = true }: HeaderProps) {
+export default function Header({ showBackButton = true, title }: HeaderProps) {
   const navigate = useNavigate();
-  const { t } = useTranslation();
-
-  const toggleLanguage = () => {
-    i18n.changeLanguage(i18n.language === 'zh' ? 'en' : 'zh');
-  };
 
   return (
     <HeaderContainer>
@@ -81,10 +75,9 @@ export default function Header({ showBackButton = true }: HeaderProps) {
         )}
       </Section>
 
-      <CenterTitle>{t('首頁')}</CenterTitle>
+      <CenterTitle>{title || "載入中"}</CenterTitle>
 
       <Section style={{ justifyContent: 'flex-end', gap: '12px' }}>
-        <IconButton onClick={toggleLanguage}>🌐</IconButton>
         <Avatar src="/assets/user-avatar.png" alt="User Avatar" />
       </Section>
     </HeaderContainer>
