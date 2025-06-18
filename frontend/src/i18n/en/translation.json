@@ -1,0 +1,14 @@
+{
+  "header": {
+    "home": "Home"
+  },
+  "tabs": {
+    "products": "Products",
+    "records": "Carbon Records"
+  },
+  "content": {
+    "products": "Product List",
+    "records": "Carbon Record List",
+    "comingSoon": "Coming Soon"
+  }
+}
