@@ -1,13 +1,15 @@
 import React, { useEffect, useState } from "react";
-import HistoryList from "./components/HistoryList";
-import Modal from "./components/Modal";
-import StageBlock from "./components/StageBlock";
+import HistoryList from "../components/HistoryList";
+import Home from './Home'
+import Header from "../components/Header";
+import Modal from "../components/Modal";
+import StageBlock from "../components/StageBlock";
 import "./index.css";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { ethers } from "ethers";
-import CarbonRecorderABI from "./CarbonRecorderABI.json";
-import contractInfo from "./contractAddress.json";
-import emissionFactors from "./assets/emissionFactors_with_defaults.json";
+import CarbonRecorderABI from "../CarbonRecorderABI.json";
+import contractInfo from "../contractAddress.json";
+import emissionFactors from "../assets/emissionFactors_with_defaults.json";
 
 import { Autocomplete, TextField } from "@mui/material";
 
@@ -20,6 +22,7 @@ declare global {
 const CONTRACT_ADDRESS = contractInfo.address;
 
 export default function ProductLifecyclePage() {
+  const { productId } = useParams<{ productId: string }>();
   const navigate = useNavigate();
   const [openSections, setOpenSections] = useState<Record<string, boolean>>({});
   const [modalStep, setModalStep] = useState<string | null>(null);
@@ -29,6 +32,7 @@ export default function ProductLifecyclePage() {
   const [account, setAccount] = useState("");
   const [selectedMaterial, setSelectedMaterial] = useState<any>(null);
   const [inputAmount, setInputAmount] = useState<number>(0);
+  const [productName, setProductName] = useState<string>("");
 
   // 載入智能合約，初始化合約與歷史紀錄
   async function loadContract() {
@@ -36,6 +40,7 @@ export default function ProductLifecyclePage() {
       const provider = new ethers.BrowserProvider(window.ethereum);
       const code = await provider.getCode(CONTRACT_ADDRESS);
       console.log("code:", code); // 如果是"0x"表示該地址上沒有合約
+      
       const network = await provider.getNetwork();
       console.log("Connected to network:", network.chainId);
 
@@ -46,6 +51,10 @@ export default function ProductLifecyclePage() {
         signer
       );
       setContract(carbonContract);
+      if (productId) {
+        const p = await carbonContract.getProduct(Number(productId));
+        setProductName(p[1]);
+      }
       loadRecords(carbonContract);
     } else {
       console.error("window.ethereum not found.");
@@ -55,7 +64,7 @@ export default function ProductLifecyclePage() {
   // 頁面載入時自動載入合約
   useEffect(() => {
     loadContract();
-  }, []);
+  }, [productId]);
 
   // 連接user的錢包(MetaMask)，並取得帳號
   async function connectWallet() {
@@ -78,19 +87,26 @@ export default function ProductLifecyclePage() {
 
   // 從合約讀取所有紀錄
   async function loadRecords(carbonContract: any) {
-    const countBN = await carbonContract.getRecordCount();
+    if (!productId) return;
+    const countBN = await carbonContract.getRecordCount(Number(productId));
     const count = Number(countBN);
     const items: any[] = []; // 需設定為any，因typescript會推斷items是never[]，因為沒有指定型別且初始為空陣列。
     for (let i = 0; i < count; i++) {
-      const record = await carbonContract.getRecord(i);
-      items.push(record);
+      const record = await carbonContract.getRecord(Number(productId),i);
+      items.push({
+        sender: record[0],
+        step: record[1],
+        material: record[2],
+        emission: Number(record[3])/1000, // 還原成小數點
+        timestamp: Number(record[4]),
+      });
     }
     setRecords(items);
   }
 
   async function submitRecord() {
     // 檢查contract, description, emission是否非null
-    const finalEmission = Math.round(emission);
+    const finalEmission = emission;
     if (!contract) {
       alert("合約尚未載入");
       return;
@@ -111,7 +127,14 @@ export default function ProductLifecyclePage() {
       return;
     }
     try {
-      const tx = await contract.addRecord(modalStep, finalEmission);
+      const tx = await contract.addRecord(
+        Number(productId), // 紀錄為哪個產品
+        modalStep,
+        selectedMaterial.name,
+        inputAmount,
+        selectedMaterial.unit,
+        finalEmission*1000 // 乘以1000儲存避免小數，輸出時再除回來
+      );
       await tx.wait();
       await new Promise((resolve) => setTimeout(resolve, 1000));
       loadRecords(contract);
@@ -129,6 +152,17 @@ export default function ProductLifecyclePage() {
     setSelectedMaterial(null); // 清除之前選的項目
     setInputAmount(0); // 每次打開都預設為0
   };
+
+  const saveAndReturn = async () => {
+    if (!contract) return;
+    try {
+      alert("儲存成功!");
+      navigate("/");
+    } catch (e) {
+      console.log("儲存失敗", e);
+      alert("儲存失敗")
+    }
+  }
 
   const stages = [
     {
@@ -173,7 +207,7 @@ export default function ProductLifecyclePage() {
 
   return (
     <div className="PageWrapper">
-      <header className="Header" />
+      <Header title={productName || "loading..."}/>
       <div className="CenteredContent">
         {account ? (
           <p style={{ color: "#666", fontSize: "12px" }}>
@@ -185,24 +219,17 @@ export default function ProductLifecyclePage() {
           </button>
         )}
       </div>
-      {stages.map((stage) => (
-        <StageBlock
-          key={stage.name}
-          stage={stage}
-          open={!!openSections[stage.name]}
-          onToggle={() =>
-            setOpenSections((prev) => ({
-              ...prev,
-              [stage.name]: !prev[stage.name],
-            }))
-          }
-          onStepClick={(stepName) => handleStepClick(stage.name, stepName)}
+        <Home
+          productName={productName}
+          productId={productId!}
+          records={records}
+          contract={contract}
+          onStepClick={handleStepClick}
+          stages={stages}
+          openSections={openSections}
+          setOpenSections={setOpenSections}
+          saveAndReturn={saveAndReturn}
         />
-      ))}
-
-      <div className="CenteredContent">
-        <HistoryList records={records} />
-      </div>
       <Modal visible={!!modalStep} onClose={() => setModalStep(null)}>
         <h3>新增碳排放紀錄</h3>
         <h5 style={{ marginBottom: "2px", marginTop: 0 }}>
@@ -214,7 +241,13 @@ export default function ProductLifecyclePage() {
           options={matchedOptions}
           getOptionLabel={(option) => option.name}
           onChange={(e, val) => setSelectedMaterial(val)}
-          renderInput={(params) => <TextField {...params} label="選擇係數" />}
+          renderInput={(params) => (
+            <TextField 
+              {...params}
+              label="選擇係數"
+              variant="outlined"
+            />
+          )}
         />
 
         <div style={{ display: "flex", alignItems: "center", gap: "4px" }}>
