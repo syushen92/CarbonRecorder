@@ -10,7 +10,7 @@ import { ethers } from "ethers";
 import CarbonRecorderABI from "../CarbonRecorderABI.json";
 import contractInfo from "../contractAddress.json";
 import emissionFactors from "../assets/emissionFactors_with_defaults.json";
-
+import { useAuth } from "../context/AuthContext";
 import { Autocomplete, TextField } from "@mui/material";
 
 declare global {
@@ -30,6 +30,7 @@ export default function ProductLifecyclePage() {
   const [records, setRecords] = useState<any[]>([]);
   const [contract, setContract] = useState<any>(null);
   const [account, setAccount] = useState("");
+  const { role } = useAuth(); 
   const [selectedMaterial, setSelectedMaterial] = useState<any>(null);
   const [inputAmount, setInputAmount] = useState<number>(0);
   const [productName, setProductName] = useState<string>("");
@@ -107,6 +108,7 @@ export default function ProductLifecyclePage() {
   async function submitRecord() {
     // 檢查contract, description, emission是否非null
     const finalEmission = emission;
+    if (role!=="Farmer") { alert("只有茶行可寫入紀錄"); return; }
     if (!contract) {
       alert("合約尚未載入");
       return;
@@ -133,7 +135,7 @@ export default function ProductLifecyclePage() {
         selectedMaterial.name,
         inputAmount,
         selectedMaterial.unit,
-        finalEmission*1000 // 乘以1000儲存避免小數，輸出時再除回來
+        Math.round(finalEmission)*1000 // 乘以1000儲存避免小數，輸出時再除回來
       );
       await tx.wait();
       await new Promise((resolve) => setTimeout(resolve, 1000));
@@ -268,14 +270,13 @@ export default function ProductLifecyclePage() {
           預估碳排量：{emission.toFixed(2)} kg CO₂e
         </p>
 
-        <div className="ButtonRow">
-          <button className="SubmitButton" onClick={submitRecord}>
-            確認提交
-          </button>
-          <button className="CancelButton" onClick={() => setModalStep(null)}>
-            取消
-          </button>
-        </div>
+        {role==="Farmer" && (
+          <div className="ButtonRow">
+            <button className="SubmitButton" onClick={submitRecord}>
+              確認提交
+            </button>
+          </div>
+        )}
       </Modal>
     </div>
   );
