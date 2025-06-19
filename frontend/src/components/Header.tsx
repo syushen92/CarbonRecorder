@@ -76,10 +76,6 @@ export default function Header({ showBackButton = true, title }: HeaderProps) {
       </Section>
 
       <CenterTitle>{title || "載入中"}</CenterTitle>
-
-      <Section style={{ justifyContent: 'flex-end', gap: '12px' }}>
-        <Avatar src="/assets/user-avatar.png" alt="User Avatar" />
-      </Section>
     </HeaderContainer>
   );
 }

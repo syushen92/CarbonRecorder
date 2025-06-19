@@ -12,7 +12,7 @@ export default function RegisterPage({ account }: { account: string }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  /*useEffect(() => {
+  useEffect(() => {
   (async () => {
     const provider = new ethers.BrowserProvider(window.ethereum);
     const net = await provider.getNetwork();
@@ -20,7 +20,7 @@ export default function RegisterPage({ account }: { account: string }) {
     const code = await provider.getCode(contractInfo.address);
     console.log("byteCode length =", code.length);     // > 2 代表鏈上有合約
   })();
-}, []);*/
+}, []);
 
 
   async function handleRegister() {

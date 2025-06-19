@@ -276,6 +276,7 @@ export default function ProductLifecyclePage() {
             className="InputAmount"
             type="number"
             value={inputAmount}
+            min="0"
             onChange={(e) => setInputAmount(Number(e.target.value))}
             placeholder="輸入用量"
             style={{ flex: 1 }}
@@ -294,6 +295,9 @@ export default function ProductLifecyclePage() {
           <div className="ButtonRow">
             <button className="SubmitButton" onClick={submitRecord}>
               確認提交
+            </button>
+            <button className="CancelButton" onClick={() => setModalStep(null)}>
+              取消
             </button>
           </div>
         )}

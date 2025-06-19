@@ -19,7 +19,7 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": ["包裝資材"]
   },
   {
     "name": "聚氯乙烯(膠膜，膠布，電線電纜用)",
@@ -43,7 +43,7 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": ["包裝資材"]
   },
   {
     "name": "聚醯胺6",
@@ -75,7 +75,7 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": ["包裝資材"]
   },
   {
     "name": "聚甲醛",
@@ -561,7 +561,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "抄紙(裱面紙板)",
@@ -573,7 +575,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "電力碳足跡(2011)",
@@ -705,7 +709,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "自用大客車(柴油)",
@@ -858,7 +864,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生影印紙",
@@ -870,7 +878,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "乙醇胺",
@@ -1616,7 +1626,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "養殖石斑魚活體",
@@ -1965,7 +1977,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "發泡聚苯乙烯",
@@ -2269,7 +2283,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢照明光源-廢鋁",
@@ -2305,7 +2321,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-PET廢塑膠片",
@@ -2317,7 +2335,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-PP廢塑膠片",
@@ -2329,7 +2349,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-PVC廢塑膠片",
@@ -2341,7 +2363,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-未發泡PS廢塑膠片",
@@ -2353,7 +2377,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢玻璃容器-玻璃砂",
@@ -2365,7 +2391,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢紙容器-脫墨紙漿",
@@ -2377,7 +2405,10 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+
+    ]
   },
   {
     "name": "再生料-廢塑膠容器-發泡PS廢塑膠粒",
@@ -2389,7 +2420,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢鋁容器-鋁錠",
@@ -2401,7 +2434,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢鐵容器-碎鐵",
@@ -2413,7 +2448,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢容器-PE廢塑膠片（含容器廢棄階段）",
@@ -2425,7 +2462,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-PET廢塑膠片（含容器廢棄階段）",
@@ -2437,7 +2476,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-PP廢塑膠片（含容器廢棄階段）",
@@ -2449,7 +2490,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-PVC廢塑膠片（含容器廢棄階段）",
@@ -2461,7 +2504,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢容器-未發泡PS廢塑膠片（含容器廢棄階段）",
@@ -2473,7 +2518,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢玻璃容器-玻璃砂（含容器廢棄階段）",
@@ -2485,7 +2532,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢紙容器-脫墨紙漿（含容器廢棄階段）",
@@ -2497,7 +2546,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢塑膠容器-發泡PS廢塑膠粒（含容器廢棄階段）",
@@ -2509,7 +2560,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢鋁容器-鋁錠（含容器廢棄階段）",
@@ -2521,7 +2574,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢鐵容器-碎鐵（含容器廢棄階段）",
@@ -2533,7 +2588,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "尿素",
@@ -2545,7 +2602,9 @@
     "tags": [
       "肥料"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "肥料"
+    ]
   },
   {
     "name": "馬口鐵",
@@ -2577,7 +2636,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "中密度纖維板",
@@ -2609,7 +2670,9 @@
     "tags": [
       "肥料"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "肥料"
+    ]
   },
   {
     "name": "硫代硫酸鈉(結晶、無水)",
@@ -2621,7 +2684,9 @@
     "tags": [
       "肥料"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "肥料"
+    ]
   },
   {
     "name": "氯化鉀(肥料用)",
@@ -2939,7 +3004,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "不鏽鋼三層牆角架(5327S)",
@@ -2994,7 +3061,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "鋼筋",
@@ -3046,7 +3115,9 @@
     "tags": [
       "肥料"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "肥料"
+    ]
   },
   {
     "name": "多元氯化鋁(氧化還原置換法)",
@@ -3078,7 +3149,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "發煙硫酸",
@@ -3090,7 +3163,9 @@
     "tags": [
       "肥料"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "肥料"
+    ]
   },
   {
     "name": "醋酸乙烯單體",
@@ -3386,7 +3461,8 @@
       "冷藏暫存",
       "銷售點",
       "出貨",
-      "配送"
+      "配送",
+      "能源資源"
     ]
   },
   {
@@ -3399,7 +3475,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢電子電器暨廢資訊物品-廢銅",
@@ -3411,7 +3489,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢電子電器暨廢資訊物品-廢鋁",
@@ -3423,7 +3503,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢電子電器暨廢資訊物品-廢塑膠",
@@ -3435,7 +3517,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢電子電器暨廢資訊物品-廢玻璃",
@@ -3447,7 +3531,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢電視機暨廢顯示器-錐管玻璃",
@@ -3459,7 +3545,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢冰箱-廢R11冷媒(活性碳冰水機法)",
@@ -3471,7 +3559,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢冰箱-廢R11冷媒(液態氮法)",
@@ -3483,7 +3573,9 @@
     "tags": [
       "肥料"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "肥料"
+    ]
   },
   {
     "name": "再生料-廢冰箱-廢R12冷媒",
@@ -3495,7 +3587,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "再生料-廢冷暖氣機-廢R22冷媒",
@@ -3507,7 +3601,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢電子電器暨廢資訊物品-廢潤滑油",
@@ -3519,7 +3615,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢電子電器暨廢資訊物品-待再處理二次料",
@@ -3531,7 +3629,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "再生料-廢壓縮機/廢馬達二次拆解-廢鐵",
@@ -3543,7 +3643,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢壓縮機/廢馬達二次拆解-廢銅",
@@ -3555,7 +3657,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "再生料-廢壓縮機/廢馬達二次拆解-廢鋁",
@@ -3567,7 +3671,9 @@
     "tags": [
       "廢棄物"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "廢棄物"
+    ]
   },
   {
     "name": "住宿服務",
@@ -3629,7 +3735,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "苯",
@@ -3671,7 +3779,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "耐衝擊聚苯乙烯(HIPS)",
@@ -3693,7 +3803,9 @@
     "tags": [
       "包裝資材"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "包裝資材"
+    ]
   },
   {
     "name": "丙烯腈",
@@ -3866,7 +3978,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "車用汽油(於固定源使用，2014)",
@@ -3973,7 +4087,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "筆記型電腦鍵盤",
@@ -3997,7 +4113,9 @@
     "tags": [
       "能源資源"
     ],
-    "applicableSteps": []
+    "applicableSteps": [
+      "能源資源"
+    ]
   },
   {
     "name": "螺絲(不含球化、表面皮膜處理與電鍍)",
