@@ -1,23 +1,47 @@
+// src/pages/Home.tsx
 import React, { useState } from "react";
 import * as XLSX from "xlsx";
-import { ethers } from "ethers";                  // ← 只有做型別轉換用
+import { ethers } from "ethers";
 import StageBlock from "../components/StageBlock";
 import HistoryList from "../components/HistoryList";
 import TabSelector from "../components/TabSelector";
 import "./index.css";
 
+/* ────────── 型別 ────────── */
 interface HomeProps {
   productName: string;
-  records: any[];                                  // 前端暫存的紀錄（畫面會顯示）
+  records: any[];               // 前端暫存
   productId: string;
-  contract: ethers.Contract | null;               // ⭐ 已在 App 頂層用 useAuth 取得
-  onStepClick: (stageName: string, stepName: string) => void;
+  contract: ethers.Contract | null;
+  onStepClick: (stage: string, step: string) => void;
   stages: any[];
   openSections: Record<string, boolean>;
   setOpenSections: React.Dispatch<React.SetStateAction<Record<string, boolean>>>;
   saveAndReturn: () => void;
 }
 
+/* ────────── utils ────────── */
+const toNum = (v: any) =>
+  v == null
+    ? ""
+    : typeof v === "bigint"
+    ? Number(v)
+    : typeof v === "object" && typeof v.toString === "function"
+    ? Number(v.toString())
+    : Number(v);
+
+const toMs = (x: number) => (x < 10_000_000_000 ? x * 1000 : x);
+
+const splitStep = (s: string): [string, string] => {
+  if (!s) return ["", ""];
+  const viaDash = s.split(" - ");
+  if (viaDash.length > 1) return [viaDash[0], viaDash.slice(1).join(" - ")];
+  const viaColon = s.split("：");
+  if (viaColon.length > 1) return [viaColon[0], viaColon.slice(1).join("：")];
+  return ["", s];
+};
+
+/* ────────── Component ────────── */
 export default function Home({
   productId,
   records,
@@ -29,108 +53,136 @@ export default function Home({
   saveAndReturn,
 }: HomeProps) {
   const [activeTab, setActiveTab] = useState<"lifecycle" | "history">("lifecycle");
-  const [loading, setLoading]   = useState(false);
+  const [loading, setLoading] = useState(false);
 
-  /* ===== 下載報表（先鏈上抓，補齊缺的欄位再輸出） ===== */
-  const downloadReport = async () => {
-    if (!contract) {
-      alert("⚠️ 目前尚未連到智慧合約，請先連結錢包或稍後再試");
-      return;
+  /* ───── 撈鏈上資料（舊 API：getRecordCount / getRecord） ───── */
+  const fetchChain = async () => {
+    if (!contract) throw new Error("contract not ready");
+    const pid = Number(productId);
+    if (
+      typeof (contract as any).getRecordCount !== "function" ||
+      typeof (contract as any).getRecord !== "function"
+    ) {
+      throw new Error("合約缺少 getRecordCount / getRecord");
     }
 
+    const total = toNum(await (contract as any).getRecordCount(pid));
+    const out: any[] = [];
+    for (let i = 0; i < total; i++) {
+      // getRecord 回傳 (address, step, material, emission, timestamp)
+      const [, stepStr, material, emissionBN, ts] = await (contract as any).getRecord(pid, i);
+      const [stage, group] = splitStep(stepStr);
+      out.push({
+        stage,
+        group,
+        material,
+        amount: "",          // 鏈上無 amount/unit → 之後靠前端暫存補
+        unit: "",
+        perAmount: "",
+        perUnit: "",
+        perName: "",
+        emission: toNum(emissionBN) / 1000,
+        timestamp: toMs(toNum(ts)),
+      });
+    }
+    return out;
+  };
+
+  /* ───── 合併鏈上 & 前端暫存：用 stage|group|material 當 key 互補欄位 ───── */
+  const mergeRows = (chainRows: any[]) => {
+    const map = new Map<string, any>();
+    const key = (r: any) => `${r.stage}|${r.group}|${r.material}`;
+
+    // 1) 先塞鏈上
+    chainRows.forEach((r) => map.set(key(r), { ...r }));
+
+    // 2) 用暫存補 amount / unit
+    records.forEach((l) => {
+      const [stage, group] = splitStep(l.step || "");
+      const k = `${stage}|${group}|${l.material}`;
+      const row = map.get(k) ?? {
+        stage,
+        group,
+        material: l.material,
+        amount: "",
+        unit: "",
+        perAmount: "",
+        perUnit: "",
+        perName: "",
+        emission: "",
+        timestamp: toMs(l.timestamp || Date.now()),
+      };
+      if (row.amount === "" && l.amount != null) row.amount = l.amount;
+      if (row.unit === "" && l.unit) row.unit = l.unit;
+      if (row.emission === "" && l.emission != null) row.emission = l.emission;
+      map.set(k, row);
+    });
+
+    return [...map.values()].sort((a, b) => a.timestamp - b.timestamp);
+  };
+
+  /* ───── 下載報表 ───── */
+  const downloadReport = async () => {
+    if (!contract) return alert("⚠️ 尚未連錢包");
     setLoading(true);
     try {
-      /* 1) 撈鏈上資料 -------------------------------------------------- */
-      // 這裡假設 getRecords(productId) 直接回傳 Record[]
-      // Record: [stage, step, material, amount, unit, emission, timestamp]
-      const chainRaw: any[] = await contract.getRecords(productId);
+      const chainRows = await fetchChain();
+      const rows = mergeRows(chainRows);
+      if (!rows.length) return alert("此產品尚無紀錄");
 
-      // BigNumber ➜ number / string
-      const chainRecords = chainRaw.map(r => ({
-        stage:      r.stage,
-        step:       r.step,
-        material:   r.material,
-        amount:     Number(ethers.BigNumber.from(r.amount)),   // 若合約用 18 decimals 再 /1e18
-        unit:       r.unit,
-        emission:   Number(ethers.BigNumber.from(r.emission)), // 同上
-        timestamp:  Number(r.timestamp) * 1000,                // 假設秒 → ms
-      }));
-
-      /* 2) 合併「前端暫存」＋「鏈上」避免遺漏 ---------------------------- */
-      // 這裡用 timestamp 判斷唯一，你也可以用 hash / index
-      const merged: any[] = [
-        ...records,
-        ...chainRecords.filter(
-          c => !records.some(l => l.timestamp === c.timestamp && l.material === c.material)
-        )
-      ];
-
-      if (merged.length === 0) {
-        alert("此產品尚無紀錄");
-        return;
-      }
-
-      /* 3) 轉成符合「工作表二」的 AOA ---------------------------------- */
       const header = [
-        "生命週期階段", "群組", "名稱", "總活動量", "單位",
+        "生命週期階段", "群組", "名稱",
+        "總活動量", "單位",
         "每單位數量", "單位", "名稱",
-        "數值(kgCO2e/單位)", "單位", "數據來源"
+        "數值(kgCO2e/單位)", "單位",
+        "數據來源",
       ];
 
-      const sheetData = [
+      const aoa = [
         header,
-        ...merged.map(r => [
-          r.stage ?? "",
-          r.step ?? "",
-          r.material ?? "",
-          r.amount ?? "",
-          r.unit ?? "",
-          "", "", "",                           // 每單位區先空著
-          r.emission ?? "",
-          "kg CO2e",
-          new Date(r.timestamp).toLocaleString() // 這裡直接用時間當來源
-        ])
+        ...rows.map((r) => [
+          r.stage, r.group, r.material,
+          r.amount, r.unit,
+          r.perAmount, r.perUnit, r.perName,
+          r.emission, "kg CO2e",
+          new Date(r.timestamp).toLocaleString(),
+        ]),
       ];
 
-      /* 4) 建立活頁簿＋下載 --------------------------------------------- */
-      const ws = XLSX.utils.aoa_to_sheet(sheetData);
+      const ws = XLSX.utils.aoa_to_sheet(aoa);
       const wb = XLSX.utils.book_new();
       XLSX.utils.book_append_sheet(wb, ws, "2.平台匯入表");
-
-      const out = XLSX.write(wb, { bookType: "xlsx", type: "array" });
-      const url = URL.createObjectURL(new Blob([out]));
+      const buf = XLSX.write(wb, { bookType: "xlsx", type: "array" });
+      const url = URL.createObjectURL(new Blob([buf]));
       const a   = document.createElement("a");
       a.href = url;
       a.download = `盤查表_product${productId}_${Date.now()}.xlsx`;
       a.click();
       URL.revokeObjectURL(url);
     } catch (e: any) {
-      console.error("downloadReport error =>", e);
-      alert("匯出失敗，請檢查合約方法名稱或 console log");
+      console.error("downloadReport error →", e);
+      alert(`匯出失敗：${e?.message || e}`);
     } finally {
       setLoading(false);
     }
   };
 
-  /* ===== 畫面 ===== */
+  /* ───── UI ───── */
   return (
     <div>
       <TabSelector activeTab={activeTab} onChange={setActiveTab} />
 
       {activeTab === "lifecycle" ? (
         <>
-          {stages.map(stage => (
+          {stages.map((stage) => (
             <StageBlock
               key={stage.name}
               stage={stage}
               open={!!openSections[stage.name]}
               onToggle={() =>
-                setOpenSections(prev => ({
-                  ...prev,
-                  [stage.name]: !prev[stage.name],
-                }))
+                setOpenSections((p) => ({ ...p, [stage.name]: !p[stage.name] }))
               }
-              onStepClick={step => onStepClick(stage.name, step)}
+              onStepClick={(step) => onStepClick(stage.name, step)}
             />
           ))}
         </>
