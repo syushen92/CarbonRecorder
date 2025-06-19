@@ -13,6 +13,7 @@ import ProductLifecyclePage from "./pages/ProductLifeCycle";
 import ProductListPage from "./pages/ProductListPage";
 import RegisterPage from "./pages/RegisterPage";
 import LoginPage from "./pages/LoginPage";
+import { ReportProvider } from "./context/ReportContext";
 
 function Gate() {
   const { account, role } = useAuth();
@@ -32,12 +33,14 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <BrowserRouter>
       <AuthProvider>
-        <Routes>
-          <Route path="/"           element={<Gate />} />
-          <Route path="/register"   element={<Gate />} />
-          <Route path="/product/:productId" element={<ProductLifecyclePage />} />
-          <Route path="*"           element={<Navigate to="/" replace />} />
-        </Routes>
+        <ReportProvider>   {/* ← 加這層 */}
+          <Routes>
+            <Route path="/"           element={<Gate />} />
+            <Route path="/register"   element={<Gate />} />
+            <Route path="/product/:productId" element={<ProductLifecyclePage />} />
+            <Route path="*"           element={<Navigate to="/" replace />} />
+          </Routes>
+        </ReportProvider>
       </AuthProvider>
     </BrowserRouter>
   </StrictMode>

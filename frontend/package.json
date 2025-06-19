@@ -14,11 +14,13 @@
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^7.1.1",
     "ethers": "^6.14.3",
+    "file-saver": "^2.0.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-i18next": "^15.5.3",
     "react-router-dom": "^7.6.2",
-    "styled-components": "^6.1.19"
+    "styled-components": "^6.1.19",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
