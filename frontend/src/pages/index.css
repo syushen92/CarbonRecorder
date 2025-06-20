@@ -1,99 +1,147 @@
-.Button {
-  height: 30px;
-  background-color: rgb(233, 242, 220);
-  color: rgb(108, 210, 124);
-  padding: 3px 16px;
-  border: none;
-  border-radius: 5px;
-  font-size: 12px;
-  font-weight: bold;
-  cursor: pointer;
-}
-.Button:hover {
-  background-color: rgb(231, 244, 212);
-  border: rgb(5, 16, 217) solid 1px;
-}
-  
-.SubmitButton {
-  height: 30px;
-  background-color: rgb(215, 247, 170);
-  color: rgb(70, 173, 85);
-  padding: 3px 16px;
-  border: none;
-  border-radius: 5px;
-  font-size: 15px;
-  font-weight: bold;
-  cursor: pointer;
-}
-.SubmitButton:hover {
-  background-color: rgb(215, 247, 170);
-  border: rgb(167, 194, 105) solid 1px;
-}
+/* ───────── 色票 ─────────
+   霜白   #F4F1ED
+   楓木   #D8C4AA
+   胡桃   #B49779
+   焦糖   #8A6748
+   黑咖啡 #4C3A28
+────────────────────────*/
 
-.SaveButton {
-  margin-top: 16;
-  padding: 8px 16px;
-  background: #aed0f0;
-  color: #3182ce;
-  font-size: 12px;
-  font-weight: bold;
+/* ============ 通用按鈕 ============ */
+html, body {
+  min-height: 100vh;
+  background: #F7F4F1; /* 這裡用你的主題色 */
+  margin: 0;
+  padding: 0;
+}
+.Button {
+  --bg:     #D8C4AA;        /* 楓木 */
+  --bg-hov: #CCB397;
+  --text:   #4C3A28;        /* 黑咖啡 */
+
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+
+  height: 34px;
+  padding: 0 22px;
+  background: var(--bg);
+  color: var(--text);
+
+  border: 1px solid transparent;
+  border-radius: 8px;
+  
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .2px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(76, 58, 40, .14);
+  transition: background .2s, transform .15s, box-shadow .15s;
+}
+.Button:hover   { background: var(--bg-hov); transform: translateY(-1px); box-shadow: 0 4px 6px rgba(76,58,40,.2); }
+.Button:active  { transform: translateY(0); }
+
+/* ============ Submit 主動式按鈕 (深胡桃) ============ */
+.SubmitButton {
+  --grad: linear-gradient(135deg, #B49779 0%, #8A6748 100%);
+
+  height: 38px;
+  padding: 0 26px;
+  background: var(--grad);
+  color: #fff;
+
   border: none;
   border-radius: 8px;
-  cursor: pointer
-}
-
-.CancelButton {
-  height: 30px;
-  background-color: rgb(225, 174, 155);
-  color: rgb(212, 69, 22);
-  padding: 3px 16px;
-  border: none;
-  border-radius: 5px;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 700;
   cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,.25);
+  transition: transform .15s, box-shadow .15s;
 }
-.CancelButton:hover {
-  background-color: rgb(225, 174, 155);
-  border: rgb(212, 162, 144) solid 1px;
-}
+.SubmitButton:hover  { transform: translateY(-1px); box-shadow: 0 6px 10px rgba(0,0,0,.28); }
+.SubmitButton:active { transform: translateY(0); }
 
+/* ============ Save (淺木質面板) ============ */
+.SaveButton {
+  margin-top: 18px;
+  padding: 10px 22px;
+  background: #F4F1ED;
+  color: #4C3A28;
+
+  border: 1px solid #E2D9CF;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(76,58,40,.12);
+  transition: background .2s, box-shadow .15s;
+}
+.SaveButton:hover  { background: #EFE8E1; box-shadow: 0 4px 6px rgba(76,58,40,.16); }
+.SaveButton:active { box-shadow: 0 2px 4px rgba(76,58,40,.12); }
+
+/* ============ Cancel (焦糖紅) ============ */
+.CancelButton {
+  --grad: linear-gradient(135deg,#C28767 0%,#9D5F42 100%);
+
+  height: 38px;
+  padding: 0 26px;
+  background: var(--grad);
+  color: #fff;
+
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,.22);
+  transition: transform .15s, box-shadow .15s;
+}
+.CancelButton:hover  { transform: translateY(-1px); box-shadow: 0 6px 10px rgba(0,0,0,.28); }
+.CancelButton:active { transform: translateY(0); }
+
+/* ============ 佈局 & 表單 ============ */
 .ButtonRow {
   display: flex;
-  gap: 12px;
-  margin-top: 8px;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 14px;
   justify-content: center;
 }
 
 .InputAmount {
   width: 100%;
-  border: 1.5px solid #ccc;
-  border-radius: 3px;
+  padding: 10px 12px;
+  border: 1.8px solid #D0C6BA;
+  border-radius: 6px;
   font-size: 14px;
-  color: #333;
-  background: #f9f9f9;
+  color: #4C3A28;
+  background: #F4F1ED;
+  transition: background .15s, border-color .15s;
 }
 .InputAmount:focus {
   background: #fff;
+  border-color: #B49779;
+  outline: none;
 }
 
 .PageWrapper {
-  background-color: #f9f9f9;
-  min-height: 100vh;
-  padding-top: 36px;
+  background: #F7F4F1;        /* 淡木紋紙白 */
+  min-height: 0vh;
+  padding-top: 56px;
   width: 100vw;
-  max-width: 100%;
   overflow-x: hidden;
+  max-width: 390px;           /* 統一最大寬度 */
+  margin: 0 auto;             /* 置中 */
 }
 
 .CenteredContent {
-  max-width: 480px;
+  max-width: 540px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 24px;
 }
 
 .Section {
   padding: 0;
   font-size: 16px;
-  color: #555; 
+  color: #5B4A37;
+  line-height: 1.55;
 }

@@ -34,13 +34,38 @@
         "type": "address"
       },
       {
+        "indexed": true,
+        "internalType": "uint256",
+        "name": "productId",
+        "type": "uint256"
+      },
+      {
         "indexed": false,
         "internalType": "uint256",
-        "name": "index",
+        "name": "recordIndex",
         "type": "uint256"
       }
     ],
     "name": "RecordAdded",
+    "type": "event"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "user",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "enum CarbonRecorder.Role",
+        "name": "role",
+        "type": "uint8"
+      }
+    ],
+    "name": "UserRegistered",
     "type": "event"
   },
   {
@@ -140,27 +165,27 @@
     "outputs": [
       {
         "internalType": "address",
-        "name": "sender",
+        "name": "",
         "type": "address"
       },
       {
         "internalType": "string",
-        "name": "step",
+        "name": "",
         "type": "string"
       },
       {
         "internalType": "string",
-        "name": "material",
+        "name": "",
         "type": "string"
       },
       {
         "internalType": "uint256",
-        "name": "emission",
+        "name": "",
         "type": "uint256"
       },
       {
         "internalType": "uint256",
-        "name": "timestamp",
+        "name": "",
         "type": "uint256"
       }
     ],
@@ -181,6 +206,25 @@
         "internalType": "uint256",
         "name": "",
         "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "user",
+        "type": "address"
+      }
+    ],
+    "name": "getUserRole",
+    "outputs": [
+      {
+        "internalType": "enum CarbonRecorder.Role",
+        "name": "",
+        "type": "uint8"
       }
     ],
     "stateMutability": "view",
@@ -277,6 +321,38 @@
         "internalType": "uint256",
         "name": "emission",
         "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "enum CarbonRecorder.Role",
+        "name": "role",
+        "type": "uint8"
+      }
+    ],
+    "name": "registerUser",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "name": "roles",
+    "outputs": [
+      {
+        "internalType": "enum CarbonRecorder.Role",
+        "name": "",
+        "type": "uint8"
       }
     ],
     "stateMutability": "view",

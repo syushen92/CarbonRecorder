@@ -10,8 +10,9 @@ import { ethers } from "ethers";
 import CarbonRecorderABI from "../CarbonRecorderABI.json";
 import contractInfo from "../contractAddress.json";
 import emissionFactors from "../assets/emissionFactors_with_defaults.json";
-
+import { useAuth } from "../context/AuthContext";
 import { Autocomplete, TextField } from "@mui/material";
+import { useReport } from "../context/ReportContext";
 
 declare global {
   interface Window {
@@ -30,9 +31,11 @@ export default function ProductLifecyclePage() {
   const [records, setRecords] = useState<any[]>([]);
   const [contract, setContract] = useState<any>(null);
   const [account, setAccount] = useState("");
+  const { role } = useAuth(); 
   const [selectedMaterial, setSelectedMaterial] = useState<any>(null);
   const [inputAmount, setInputAmount] = useState<number>(0);
   const [productName, setProductName] = useState<string>("");
+  const { pushRow } = useReport();
 
   // 載入智能合約，初始化合約與歷史紀錄
   async function loadContract() {
@@ -104,9 +107,22 @@ export default function ProductLifecyclePage() {
     setRecords(items);
   }
 
+  /* ------------ emission 先算好，再在 submit 中用 ------------ */
+  const rawCoefficient =
+    selectedMaterial?.coefficient ?? selectedMaterial?.coe ?? "";
+  const parsedCoefficient = parseFloat(rawCoefficient);
+  const parsedAmount      = parseFloat(inputAmount.toString());
+
+  const emission =
+    selectedMaterial && !isNaN(parsedCoefficient) && !isNaN(parsedAmount)
+      ? parsedCoefficient * parsedAmount
+      : 0;
+
+  /* submitRecord() */    
   async function submitRecord() {
     // 檢查contract, description, emission是否非null
     const finalEmission = emission;
+    if (role!=="Farmer") { alert("只有茶行可寫入紀錄"); return; }
     if (!contract) {
       alert("合約尚未載入");
       return;
@@ -133,9 +149,24 @@ export default function ProductLifecyclePage() {
         selectedMaterial.name,
         inputAmount,
         selectedMaterial.unit,
-        finalEmission*1000 // 乘以1000儲存避免小數，輸出時再除回來
+        Math.round(finalEmission)*1000 // 乘以1000儲存避免小數，輸出時再除回來
       );
+      /* 先等鏈上成功 */
       await tx.wait();
+
+      /* 再推進報表 */
+      pushRow({
+        productId: Number(productId),
+        productName,
+        stage: modalStage!,
+        step : modalStep!,
+        material: selectedMaterial.name,
+        amount: inputAmount,
+        unit  : selectedMaterial.unit,
+        emission: +emission.toFixed(3),
+        timestamp: Math.floor(Date.now()/1000)
+      });
+
       await new Promise((resolve) => setTimeout(resolve, 1000));
       loadRecords(contract);
       setModalStep(null);
@@ -193,16 +224,6 @@ export default function ProductLifecyclePage() {
     f.applicableSteps?.includes(modalStep || "")
   );
 
-  const rawCoefficient =
-    selectedMaterial?.coefficient ?? selectedMaterial?.coe ?? "";
-  const parsedCoefficient = parseFloat(rawCoefficient);
-  const parsedAmount = parseFloat(inputAmount.toString());
-
-  const emission =
-    selectedMaterial && !isNaN(parsedCoefficient) && !isNaN(parsedAmount)
-      ? parsedCoefficient * parsedAmount
-      : 0;
-
   console.log("selectedMaterial", selectedMaterial);
 
   return (
@@ -255,27 +276,31 @@ export default function ProductLifecyclePage() {
             className="InputAmount"
             type="number"
             value={inputAmount}
+            min="0"
             onChange={(e) => setInputAmount(Number(e.target.value))}
             placeholder="輸入用量"
             style={{ flex: 1 }}
           />
           <span style={{ fontSize: "14px", color: "#444" }}>
-            {selectedMaterial?.unit ? selectedMaterial.unit : ""}
+            {selectedMaterial?.unit ?? ""}
           </span>
+
         </div>
 
         <p style={{ fontSize: "14px", color: "#444" }}>
           預估碳排量：{emission.toFixed(2)} kg CO₂e
         </p>
 
-        <div className="ButtonRow">
-          <button className="SubmitButton" onClick={submitRecord}>
-            確認提交
-          </button>
-          <button className="CancelButton" onClick={() => setModalStep(null)}>
-            取消
-          </button>
-        </div>
+        {role==="Farmer" && (
+          <div className="ButtonRow">
+            <button className="SubmitButton" onClick={submitRecord}>
+              確認提交
+            </button>
+            <button className="CancelButton" onClick={() => setModalStep(null)}>
+              取消
+            </button>
+          </div>
+        )}
       </Modal>
     </div>
   );
