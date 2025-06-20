@@ -63,6 +63,9 @@ export default function ProductListPage() {
     <div
       style={{
         minHeight: "100vh",
+        display: "flex",                // 新增
+        justifyContent: "center",       // 新增
+        alignItems: "center",           // 新增
         background:
           "linear-gradient(140deg,#F3F0EB 0%,#E6DED2 60%,#DDD0BF 100%)",
         animation: "fade-bg 0.6s ease",

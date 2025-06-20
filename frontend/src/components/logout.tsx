@@ -14,7 +14,7 @@ const C = {
 /* ─── 樣式 ─── */
 const FloatWrap = styled.header`
   position: fixed;
-  bottom: 24px;
+  bottom: 0px;
   right: 24px;
   z-index: 1500;
 

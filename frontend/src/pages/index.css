@@ -7,6 +7,12 @@
 ────────────────────────*/
 
 /* ============ 通用按鈕 ============ */
+html, body {
+  min-height: 100vh;
+  background: #F7F4F1; /* 這裡用你的主題色 */
+  margin: 0;
+  padding: 0;
+}
 .Button {
   --bg:     #D8C4AA;        /* 楓木 */
   --bg-hov: #CCB397;
@@ -119,10 +125,12 @@
 
 .PageWrapper {
   background: #F7F4F1;        /* 淡木紋紙白 */
-  min-height: 100vh;
-  padding-top: 52px;
+  min-height: 0vh;
+  padding-top: 56px;
   width: 100vw;
   overflow-x: hidden;
+  max-width: 390px;           /* 統一最大寬度 */
+  margin: 0 auto;             /* 置中 */
 }
 
 .CenteredContent {
