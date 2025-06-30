@@ -2,8 +2,10 @@ import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
+import Modal from "../components/Modal";
 import CarbonRecorderABI from "../CarbonRecorderABI.json";
 import contractInfo from "../contractAddress.json";
+import "./index.css";
 
 const CONTRACT_ADDRESS = contractInfo.address;
 
@@ -22,6 +24,14 @@ export default function ProductListPage() {
     { id: number; name: string; owner: string }[]
   >([]);
   const [newName, setNewName] = useState("");
+
+  const [modalOpen, setModalOpen] = useState(false);
+  // 常用產品 ID 狀態（初始化從 localStorage 讀）
+  const [modalProductId, setModalProductId] = useState("");
+  const [frequentProductIds, setFrequentProductIds] = useState<number[]>(() => {
+    const saved = localStorage.getItem("frequentProducts");
+    return saved ? JSON.parse(saved) : [];
+  });
 
   /* ------- 合約互動 ------- */
   async function ensureContract() {
@@ -50,6 +60,26 @@ export default function ProductListPage() {
     setNewName("");
     await loadProducts(c);
   }
+
+  // 設定常用產品
+  function setFrequent() {
+    const input = modalProductId.trim();
+    if (!input){
+      setModalOpen(false);
+      return;
+    }
+    const ids = input
+      .split(",")
+      .map((s) => Number(s.trim()))
+      .filter((n) => !isNaN(n));
+
+    // 原本與新的常用產品 ID 合併，並去除重複的，轉換成 Set 後再轉回 Array
+    const merged = Array.from(new Set([...frequentProductIds, ...ids]));
+    setFrequentProductIds(merged);
+    localStorage.setItem("frequentProducts", JSON.stringify(merged));
+    setModalOpen(false);
+  }
+
   useEffect(() => {
     if (!account) return;
     (async () => {
@@ -57,6 +87,15 @@ export default function ProductListPage() {
       await loadProducts(c);
     })();
   }, [account]);
+
+  // 排序：常用產品在前面
+  const sortedProducts = [...products].sort((a, b) => {
+    const aIsFrequent = frequentProductIds.includes(a.id);
+    const bIsFrequent = frequentProductIds.includes(b.id);
+    if (aIsFrequent && !bIsFrequent) return -1;
+    if (!aIsFrequent && bIsFrequent) return 1;
+    return 0;
+  });
 
   /* ------- UI ------- */
   return (
@@ -169,12 +208,32 @@ export default function ProductListPage() {
           </div>
         )}
 
+        {/* 設定常用產品按鈕 */}
+        <button
+          onClick={() => {
+            setModalProductId("") // 清空輸入框
+            setModalOpen(true)
+          }}
+          style={{
+            marginBottom: 12,
+            padding: "6px 10px",
+            fontSize: 12,
+            border: "none",
+            borderRadius: 6,
+            cursor: "pointer",
+            background: WOOD.button,
+            color: "#4C3A28",
+          }}
+        >
+          ⭐ 設定常用產品
+        </button>
+
         {/* 列出商品 */}
-        {products.length === 0 ? (
+        {sortedProducts.length === 0 ? (
           <p style={{ color: "#7C6B55", textAlign: "center" }}>尚無商品</p>
         ) : (
           <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-            {products.map((p) => (
+            {sortedProducts.map((p) => (
               <li key={p.id} style={{ marginBottom: 10 }}>
                 <button
                   onClick={() => nav(`/product/${p.id}`)}
@@ -197,11 +256,53 @@ export default function ProductListPage() {
                     (e.currentTarget.style.transform = "translateY(0)")}
                 >
                   #{p.id} – {p.name}
+                  {frequentProductIds.includes(p.id) && (
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation(); // 避免觸發外層的點擊事件
+                        const updated = frequentProductIds.filter(id => id !== p.id);
+                        setFrequentProductIds(updated);
+                        localStorage.setItem("frequentProducts", JSON.stringify(updated));
+                      }}
+                      style={{
+                        marginLeft: 8,
+                        background: "none",
+                        border: "none",
+                        fontSize: 15,
+                        cursor: "pointer",
+                      }}
+                      title="取消常用"
+                    >
+                      ⭐
+                    </button>
+                  )}
                 </button>
               </li>
             ))}
           </ul>
         )}
+        {/* 常用產品設定 */}
+        <Modal visible={modalOpen} onClose={() => setModalOpen(false)}>
+          <h3>輸入常用產品ID</h3>
+          <div style={{ display: "flex", alignItems: "center", gap: "4px" }}>
+            <input
+              className="InputAmount"
+              value={modalProductId}
+              onChange={(e) => setModalProductId(e.target.value)}
+              placeholder="例如：1, 2, 3"
+            />
+          </div>
+          <div style={{ textAlign:"right" }}>
+              <div className="ButtonRow">
+              <button className="SubmitButton" onClick={setFrequent}>
+                確認
+              </button>
+              <button className="CancelButton" onClick={() => setModalOpen(false)}>
+                取消
+              </button>
+            </div>
+          </div>
+        </Modal>
       </div>
 
       {/* 全域 & 動畫 */}

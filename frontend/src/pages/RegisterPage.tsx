@@ -11,6 +11,12 @@ const WOOD = {
   danger: "linear-gradient(135deg,#E4B0A1 0%, #C28767 100%)",
 };
 
+declare global {
+  interface Window {
+    ethereum?: any;
+  }
+}
+
 export default function RegisterPage({ account }: { account: string }) {
   const navigate = useNavigate();
   const { contract, registerUser } = useAuth();

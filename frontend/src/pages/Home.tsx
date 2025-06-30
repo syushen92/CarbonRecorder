@@ -195,8 +195,8 @@ export default function Home({
               儲存並回到商品列表
             </button>
 
-            <button className="Button" onClick={downloadReport} disabled={loading}>
-              {loading ? "匯出中…" : "⬇︎ 下載報表"}
+             <button className="SaveButton" onClick={downloadReport} disabled={loading}>
+              {loading ? "匯出中…" : "⬇ 下載報表"}
             </button>
           </div>
         </div>
